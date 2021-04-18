@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  "Python Data Structures [Chapter 10 Quiz]"
+author: Rupesh Bhandari
 date:   2021-04-18 22:10:00 +0545
 categories: Python Tutorial
 Tags: Python
