@@ -1,3 +1,12 @@
+---
+title: How to Customize Your Homepage on CoinMarketCap?
+author: Rupesh Bhandari
+date: 2021-04-11 00:34:00 +0800
+categories: [Cryptocurrency]
+tags: [Cyrpto]
+toc: false
+---
+
 1. Click on the “Customize” button on the homepage.
 
 ![First](/assets/images/2021-03-21_095025.jpg)
