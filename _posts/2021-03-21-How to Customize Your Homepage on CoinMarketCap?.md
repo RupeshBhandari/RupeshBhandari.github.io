@@ -17,7 +17,7 @@ toc: false
 
 3. We’ve also pre-selected some data field sets for you! You can check the dropdown menu and there are a few presets showing for you. You can also always return to the classic CoinMarketCap homepage by selecting “Classic” on this menu!
 
-![Third](assets/img/CoinMarketCap/36x771.png)
+![Third](/assets/img/CoinMarketCap/36x771.png)
 
 4. Remember to click “Apply Changes” before you leave this page! Next time when you use the same browser and visit CoinMarketCap, your homepage settings will still stay with you.
 
