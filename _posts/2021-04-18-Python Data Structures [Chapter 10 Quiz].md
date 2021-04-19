@@ -9,16 +9,10 @@ Tags: [Python]
 1. What is the difference between a Python tuple and Python list?
 
 
-  - [ ] Lists maintain the order of the items and tuples do not maintain order
-
-
-  - [ ]  Tuples can be expanded after they are created and lists cannot
-
-
-  - [x] Lists are mutable and tuples are not mutable
-
-
-  - [ ] Lists are indexed by integers and tuples are indexed by strings
+    - [ ] Lists maintain the order of the items and tuples do not maintain order
+    - [ ] Tuples can be expanded after they are created and lists cannot
+    - [x] Lists are mutable and tuples are not mutable
+    - [ ] Lists are indexed by integers and tuples are indexed by strings
 
 
 2. Which of the following methods work both in Python lists and Python tuples?
