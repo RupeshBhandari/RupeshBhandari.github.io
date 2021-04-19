@@ -47,12 +47,12 @@ Grammarly Premium helps you find the right tone, gives you real-time feedback, a
 
 Premium features include:
 
-  - Improved vocabulary
-  - Clarity improvements
-  - Tone adjustments
-  - Choice of words
-  - Level of formality
-  - Mastery
+    - Improved vocabulary
+    - Clarity improvements
+    - Tone adjustments
+    - Choice of words
+    - Level of formality
+    - Mastery
 
 ---
 
