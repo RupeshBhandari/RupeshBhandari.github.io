@@ -18,18 +18,20 @@ Whether you’re typing an urgent email, editing an important LinkedIn post, sen
 
 Grammarly also supports swipe typing, so you can compose quality writing without slowing down.
 
-Edit your handwriting in real time:
+1. Edit your handwriting in real time:
+
     - Grammar checker: know that your grammar is always error free.
     - Spelling checker and proofreader: Easily avoid common typos.
     - Advanced punctuation correction: take the guesswork out of punctuation.
     - Synonyms: Get better word choices and select synonyms as you type.
 
-Editorial assistant and proofreader: 
+2. Editorial assistant and proofreader: 
+
     - improve your communication skills
     - Receive short and clear explanations for each correction.
     - Understand your mistakes and avoid them in the future.
 
-Customizable according to your needs:
+3. Customizable according to your needs:
 
     - Dialect settings (American, Canadian, British and Australian English)
     - Light and dark themes
@@ -45,12 +47,12 @@ Grammarly Premium helps you find the right tone, gives you real-time feedback, a
 
 Premium features include:
 
-    - Improved vocabulary
-    - Clarity improvements
-    - Tone adjustments
-    - Choice of words
-    - Level of formality
-    - Mastery
+  - Improved vocabulary
+  - Clarity improvements
+  - Tone adjustments
+  - Choice of words
+  - Level of formality
+  - Mastery
 
 ---
 
