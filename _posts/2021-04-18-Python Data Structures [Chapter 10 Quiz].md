@@ -2,8 +2,8 @@
 title:  "Python Data Structures [Chapter 10 Quiz]"
 author: Rupesh Bhandari
 date:   2021-04-18 22:10:00 +0545
-categories: Python Tutorial
-Tags: Python
+categories: [Python, Tutorial]
+Tags: [Python]
 ---
 
 1. What is the difference between a Python tuple and Python list?
