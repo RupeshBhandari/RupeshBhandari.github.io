@@ -36,11 +36,13 @@ Tags: Python
 - [ ] reverse()
 
 
-index()
+- [ ] index()
 
 3. What will end up in the variable y after this code is executed?
 
-```x , y = 3, 4```
+```
+x , y = 3, 4
+```
 
 - [ ] A dictionary with the key 3 mapped to the value 4
 
