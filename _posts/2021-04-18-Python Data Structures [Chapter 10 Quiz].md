@@ -9,7 +9,7 @@ Tags: Python
 1. What is the difference between a Python tuple and Python list?
 
 
-- [ ] Lists maintain the order of the items and tuples do not maintain order
+[ ] Lists maintain the order of the items and tuples do not maintain order
 
 
 - [ ] Tuples can be expanded after they are created and lists cannot
