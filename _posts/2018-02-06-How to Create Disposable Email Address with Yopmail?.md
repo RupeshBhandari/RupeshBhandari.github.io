@@ -58,7 +58,7 @@ The but in this case are:
 How to create a Yopmail?
 1. Go to 'http://www.yopmail.com/en/'
 
-![Step 1, Home Page](assets/img/Yopmail/1.png) 
+![Step 1, Home Page](/assets/img/Yopmail/1.png) 
 
 
 2. Enter any email address of your choice. However, I would recommend using an ultra-unique one otherwise you might end up wasting a lot of your time searching for that particular email!
