@@ -60,9 +60,11 @@ How to create a Yopmail?
 
 ![Step 1](assets/img/Yopmail/1.png) 
 
+
 2. Enter any email address of your choice. However, I would recommend using an ultra-unique one otherwise you might end up wasting a lot of your time searching for that particular email!
 
 ![Step 2](assets/img/Yopmail/2.png) 
+
 
 3. You shall find the messages that come to your inbox as shown below.
 
