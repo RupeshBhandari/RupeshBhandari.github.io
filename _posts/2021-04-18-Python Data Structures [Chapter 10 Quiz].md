@@ -51,7 +51,7 @@ Tags: [Python]
 
 5. Which of the following tuples is greater than x in the following Python sequence?
 
-    ```
+    ```language
     x = (5, 1, 3)
     if ??? > x :
       ...
