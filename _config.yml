@@ -17,7 +17,7 @@ timezone: Asia/Kathmandu
 # --------------------------
 title: Rupesh Bhandari                       # the main title
 
-tagline: Learning    # it will display as the sub-title
+tagline: Learning new things everyday!    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -31,7 +31,7 @@ github:
   username: rpshbhandari            # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: rupesh_bhandari            # change to your twitter username
 
 social:
   # Change to your full name.

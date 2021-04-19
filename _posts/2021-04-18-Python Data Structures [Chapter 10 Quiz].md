@@ -8,7 +8,6 @@ Tags: [Python]
 
 1. What is the difference between a Python tuple and Python list?
 
-
     - [ ] Lists maintain the order of the items and tuples do not maintain order
     - [ ] Tuples can be expanded after they are created and lists cannot
     - [x] Lists are mutable and tuples are not mutable
@@ -16,7 +15,6 @@ Tags: [Python]
 
 
 2. Which of the following methods work both in Python lists and Python tuples?
-
 
     - [ ] pop()
     - [x] sort()
@@ -43,7 +41,6 @@ Tags: [Python]
     y = x.items()
     ```
 
-
     - [ ] A tuple with three integers
     - [x] A list of tuples
     - [ ] A list of strings
@@ -69,7 +66,6 @@ Tags: [Python]
     for k, v in c.items() :
         tmp.append( (v, k) )
     ```
-
 
     - [ ] It sorts the dictionary based on its key values
     - [x] It creates a list of tuples where each tuple is a value, key pair
@@ -110,7 +106,6 @@ Tags: [Python]
     - [ ] Because for each item we want the previous and current key
 
 10. Given that Python lists and Python tuples are quite similar - when might you prefer to use a tuple over a list?
-
 
     - [x] For a temporary variable that you will use and discard without modifying
     - [ ] For a list of items that want to use strings as key values instead of integers
