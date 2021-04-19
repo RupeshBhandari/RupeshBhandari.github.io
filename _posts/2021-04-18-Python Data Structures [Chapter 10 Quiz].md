@@ -18,19 +18,11 @@ Tags: [Python]
 2. Which of the following methods work both in Python lists and Python tuples?
 
 
-  - [ ] pop()
-
-
-  - [x] sort()
-
-
-  - [ ] append()
-
-
-  - [ ] reverse()
-
-
-  - [ ] index()
+    - [ ] pop()
+    - [x] sort()
+    - [ ] append()
+    - [ ] reverse()
+    - [ ] index()
 
 3. What will end up in the variable y after this code is executed?
 
@@ -38,15 +30,15 @@ Tags: [Python]
     x , y = 3, 4
     ```
 
-  - [ ] A dictionary with the key 3 mapped to the value 4
+    - [ ] A dictionary with the key 3 mapped to the value 4
 
-  - [ ] 3
+    - [ ] 3
 
-  - [ ] A two item tuple
+    - [ ] A two item tuple
 
-  - [ ] A two item list
+    - [ ] A two item list
 
-  - [x] 4
+    - [x] 4
 
 4. In the following Python code, what will end up in the variable y?
 
@@ -56,16 +48,16 @@ Tags: [Python]
     ```
 
 
-  - [ ] A tuple with three integers
+    - [ ] A tuple with three integers
 
 
-  - [x] A list of tuples
+    - [x] A list of tuples
 
 
-  - [ ] A list of strings
+    - [ ] A list of strings
 
 
-  - [ ] A list of integers
+    - [ ] A list of integers
 
 5. Which of the following tuples is greater than x in the following Python sequence?
 
@@ -75,16 +67,16 @@ Tags: [Python]
       ...
     ```
 
-  - [ ] (0, 1000, 2000) 
+    - [ ] (0, 1000, 2000) 
 
 
-  - [ ] (5, 0, 300)
+    - [ ] (5, 0, 300)
 
 
-  - [x] (6, 0, 0) 
+    - [x] (6, 0, 0) 
 
 
-  - [ ] (4, 100, 200)
+    - [ ] (4, 100, 200)
 
 6. What does the following Python code accomplish, assuming the c is a non-empty dictionary?
 
@@ -95,16 +87,16 @@ Tags: [Python]
     ```
 
 
-  - [ ] It sorts the dictionary based on its key values
+    - [ ] It sorts the dictionary based on its key values
 
 
-  - [x] It creates a list of tuples where each tuple is a value, key pair
+    - [x] It creates a list of tuples where each tuple is a value, key pair
 
 
-  - [ ] It computes the average of all of the values in the dictionary
+    - [ ] It computes the average of all of the values in the dictionary
 
 
-  - [ ] It computes the largest of all of the values in the dictionary
+    - [ ] It computes the largest of all of the values in the dictionary
 
 7. If the variable data is a Python list, how do we sort it in reverse order?
 
