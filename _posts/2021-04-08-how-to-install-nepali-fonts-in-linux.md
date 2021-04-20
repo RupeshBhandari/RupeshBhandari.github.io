@@ -16,7 +16,7 @@ For instance, you can set Nepali layout from the Setting>Input method and Select
 
 However, this layout will be difficult to use so that you follow another method.
 
-### Method 2
+## Method 2
 1. Open the Terminal
 1. Install ibus-m17n package from the terminal
 1. sudo apt install ibus-m17n
