@@ -11,13 +11,14 @@ Have you been annoyed with all the emails that you receive such as newsletters f
 Well, you have come to the proper place! Before we get into the technical aspect let's talk about YOP mail.
 
 What is Yopmail?
-Yopmail is one of those disposable email service providers. Yes, you've read it correctly! It's disposable. 
+Yopmail is one of those disposable email service providers. Yes, you've read it correctly! It's disposable.
 
 Why use it?
-Well, why not use it for everything! 
+Well, why not use it for everything!
+
 - It simply protects your identity across the web
 
-    It has been a new practice where you need to verify email just to access the service the provider provides. Earlier you could have registered with a friend's email(whom you hate!) and accessed the site and let them deal with the spam messages. Lol! However, now you've to verify the email first to access the site or any other services. So, with a disposable email, you could just simply enter any email address ending in 'yopmail.com' and check the email for the OTP sent by the site you want to enter. Search for the OTP message in the inbox and enter it on the site. Vola! No more spam on your email! 
+    It has been a new practice where you need to verify email just to access the service the provider provides. Earlier you could have registered with a friend's email(whom you hate!) and accessed the site and let them deal with the spam messages. Lol! However, now you've to verify the email first to access the site or any other services. So, with a disposable email, you could just simply enter any email address ending in ['yopmail.com'](http://www.yopmail.com/en/) and check the email for the OTP sent by the site you want to enter. Search for the OTP message in the inbox and enter it on the site. Vola! No more spam on your email!
 - It doesn't require a password
 
     With Yopmail, you don’t need to log in using the mail account or provide any other information. Instead, you can just create it and access it without any password.
@@ -38,10 +39,10 @@ Well, why not use it for everything!
 
 - Websites sell their users’ email addresses to third parties for advertising and various other purposes.
 
-
-##### But! Why is there a but in everything? 
+##### But! Why is there a but in everything?
 
 The but in this case are:
+
 - You should remember is that Yopmail (and other disposable email accounts) are not protected.
 
     In other words, emails that come under the aforesaid account number can be accessed by other users. This problem can't be avoided but it can be 'somewhat' reduced by choosing an ultra-ultra-ultra unique email address. Phew, that's a lot of ultras!
@@ -53,19 +54,20 @@ The but in this case are:
 
     In that case, you will not be able to use a disposable email address to signup for them. In this case, you can use an email address created through an additional domain to signup for such services.
 
-
-
 How to create a Yopmail?
-1. Go to 'http://www.yopmail.com/en/'
 
-    ![Step 1, Home Page](/assets/img/Yopmail/1.png) 
+1. Go to <a href="http://www.yopmail.com/en/" target="_blank"><http://www.yopmail.com/en/></a>
 
+    ![Step 1, Home Page](/assets/img/Yopmail/1.png)
 
 2. Enter any email address of your choice. However, I would recommend using an ultra-unique one otherwise you might end up wasting a lot of your time searching for that particular email!
 
-    ![Step 2, Email Bar](/assets/img/Yopmail/2.png) 
-
+    ![Step 2, Email Bar](/assets/img/Yopmail/2.png)
 
 3. You shall find the messages that come to your inbox as shown below.
 
-    ![Step 3, Inbox](/assets/img/Yopmail/3.png) 
+    ![Step 3, Inbox](/assets/img/Yopmail/3.png)
+
+[Page](http://www.yopmail.com/en/?target=_blank)
+
+[Link](<https://example.org/> target="_blank")
