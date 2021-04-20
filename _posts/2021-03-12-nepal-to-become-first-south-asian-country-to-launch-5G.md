@@ -1,7 +1,7 @@
 ---
 title:  "Nepal to Become First South-Asian Country to Launch 5G"
 author: Rupesh Bhandari
-date:   2021-04-14 22:10:00 +0545
+date:   2021-03-12 18:10:00 +0545
 categories: [Technology] 
 Tags: [5G, NTC, NCELL] 
 ---
