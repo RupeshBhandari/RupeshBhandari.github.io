@@ -45,13 +45,15 @@ PC1>
 ```
 
 ## Set an IP
+
 Static
-    
+
 ```console
     PC1> ip 192.168.1.1
     Checking for duplicate address...
     PC1 : 192.168.1.1 255.255.255.0
 ```
+
 DHCP
 
     ```
