@@ -12,7 +12,8 @@ The CWNA certification is the foundation level enterprise Wi-Fi certification fo
 *Average Salary for CWNA (US)
 2005 – $69,000 2013 – $83,000*
 
-<button name=".btn" onclick="http://www.google.com">![Buy Button](/assets/img/buttons/flipkart.png)</button>
+<a href="https://www.flipkart.com/cwna/p/itmdapyddgmzhrfr">![Buy Button](/assets/img/buttons/flipkart.png)
+</a>
 
 
 ## **CWSP® Certified Wireless Security Professional**
@@ -20,7 +21,7 @@ The CWSP certification is a professional level wireless LAN certification for th
  
 The Certification Magazine annual salary survey results for CWSP show a consistent annual increase in the average salary for CWSPs since 2005.
 
-![Buy Button](/assets/img/buttons/flipkart.png)
+[![Buy Button](/assets/img/buttons/flipkart.png)]("https://www.flipkart.com/cwsp/p/itmetjkahy4kbhaa")
 
 
 ## **CWAP® Certified Wireless Analysis Professional**
