@@ -13,7 +13,7 @@ The official website: https://sourceforge.net/projects/vpcs/?source=directory
 ## Put a VPCS node on your topology
 The VPCS node is included with GNS3 by default. No additional configuration is required. It will be located in the End devices category in the Devices list:
 
-    ![Step 1](/assets/img/vpc/1.png)
+![Step 1](/assets/img/vpc/1.png)
 
 Drag and drop an instance of VPCS into the workspace. You’ll be prompted which server type will run this VPCS instance:
 
@@ -47,11 +47,11 @@ PC1>
 ## Set an IP
 Static
     
-    ```console
+```console
     PC1> ip 192.168.1.1
     Checking for duplicate address...
     PC1 : 192.168.1.1 255.255.255.0
-    ```
+```
 DHCP
 
     ```
@@ -61,22 +61,22 @@ DHCP
 ## Ping & Traceroute
 Ping
 
-        ```console
-        PC1> ping 192.168.1.2
-        84 bytes from 192.168.1.2 icmp_seq=1 ttl=64 time=0.576 ms
-        84 bytes from 192.168.1.2 icmp_seq=2 ttl=64 time=0.512 ms
-        84 bytes from 192.168.1.2 icmp_seq=3 ttl=64 time=0.473 ms
-        84 bytes from 192.168.1.2 icmp_seq=4 ttl=64 time=0.453 ms
-        84 bytes from 192.168.1.2 icmp_seq=5 ttl=64 time=1.182 ms
-        ```
+```console
+    PC1> ping 192.168.1.2
+    84 bytes from 192.168.1.2 icmp_seq=1 ttl=64 time=0.576 ms
+    84 bytes from 192.168.1.2 icmp_seq=2 ttl=64 time=0.512 ms
+    84 bytes from 192.168.1.2 icmp_seq=3 ttl=64 time=0.473 ms
+    84 bytes from 192.168.1.2 icmp_seq=4 ttl=64 time=0.453 ms
+    84 bytes from 192.168.1.2 icmp_seq=5 ttl=64 time=1.182 ms
+``` 
 
 Traceroute
 
-    ```console
+```console
     PC1> trace 192.168.1.2
     trace to 192.168.1.2, 8 hops max, press Ctrl+C to stop
     1   *192.168.1.2   0.398 ms (ICMP type:3, code:3, Destination port unreachable)
-    ```
+```
 
 ## Save Configuration
 The configured IP address will be lost on restart, if you don’t save the config:
