@@ -22,4 +22,4 @@ tags: [Cyrpto, Coin Market Cap]
 
 5. Please note: We store this preference now on your cookies, so please enable cookies on our site in order to store the data fields for you. Once you switch to another browser or another device, this setting will not be applied, since it is only stored on the local device!
 
-6. This feature is available across all platforms, including desktop webpage, tablet webpage and iOS & Android webpages. 
+6. This feature is available across all platforms, including desktop webpage, tablet webpage and iOS & Android webpages.

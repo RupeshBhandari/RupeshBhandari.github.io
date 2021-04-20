@@ -53,4 +53,4 @@ The CWNE certification assures that you have mastered all relevant skills to adm
 
 CWNT certified instructors are qualified instructors certified by the CWNP Program to deliver CWNP training courses through Authorized Learning Partners.  CWNTs are technical and instructional experts in enterprise Wi-Fi technologies, products, and solutions. To ensure a superior learning experience for our customers, CWNP Learning  Partners are required to utilize CWNT certified instructors when conducting authorized CWNP training classes using Official CWNP Courseware.
 
-[![FLipkart](/assets/img/buttons/flipkart.png)](https://www.flipkart.com/){:target="_blank"}
+[![FLipkart](/assets/img/buttons/flipkart.png)](https://www.flipkart.com/)
