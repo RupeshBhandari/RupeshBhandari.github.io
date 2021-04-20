@@ -21,7 +21,7 @@ The CWSP certification is a professional level wireless LAN certification for th
  
 The Certification Magazine annual salary survey results for CWSP show a consistent annual increase in the average salary for CWSPs since 2005.
 
-[![Buy Button](/assets/img/buttons/flipkart.png)]("https://www.flipkart.com/cwsp/p/itmetjkahy4kbhaa")
+![Buy Button](/assets/img/buttons/flipkart.png)("https://www.flipkart.com/cwsp/p/itmetjkahy4kbhaa")
 
 
 ## **CWAP® Certified Wireless Analysis Professional**
