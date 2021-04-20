@@ -6,7 +6,7 @@ categories: [Human Rights]
 Tags: [Human Rights] 
 ---
 
-![Jani Silva](/assets/img/Human Rights/jani_silva)
+![Jani Silva](/assets/img/humanrights/jani_silva.jpg)
 
 Mr. Ivàn Duque
 President of the Republic of Colombia
