@@ -18,7 +18,7 @@ The CWNA certification is the foundation level enterprise Wi-Fi certification fo
 
 ## **CWSP® Certified Wireless Security Professional**
 The CWSP certification is a professional level wireless LAN certification for the CWNP Program. The CWSP certification will advance your career by ensuring you have the skills to successfully secure enterprise Wi-Fi networks from hackers, no matter which brand of Wi-Fi gear your organization deploys. To earn a  CWSP certification, you must hold a a current and valid CWNA credential.
- 
+
 The Certification Magazine annual salary survey results for CWSP show a consistent annual increase in the average salary for CWSPs since 2005.
 
 <a href="https://www.flipkart.com/cwsp/p/itmetjkahy4kbhaa" target="_blank" rel="noopener noreferrer">![Buy Button](/assets/img/buttons/flipkart.png)</a>
