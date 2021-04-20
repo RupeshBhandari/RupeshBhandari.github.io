@@ -35,19 +35,27 @@ The CWTS certification validates the knowledge of enterprise WLAN sales and supp
 <a href="https://www.flipkart.com/cwts-certified-wireless-technology-specialist-official-study-guide-2nd/p/itm5b489777135d4" target="_blank" rel="noopener noreferrer">![Buy Button](/assets/img/buttons/flipkart.png)</a>
 
 ## **CWDPTM Certified Wireless Design Professional**
+
 The CWDPTM certification is a professional-level wireless LAN certification for the CWNP Program. The CWDP certification will advance your career by ensuring you have the skills to successfully design enterprise Wi-Fi networks for a variety of different applications, deployments, and environments, no matter which brand of Wi-Fi gear your organization deploys. To earn a CWDP certification, you must hold a current and valid CWNA credential.
 
 <a href="https://www.flipkart.com/" target="_blank" rel="noopener noreferrer">![Buy Button](/assets/img/buttons/flipkart.png)</a>
 
 
 ## **CWNE®   Certified Wireless Network Expert**
+
 The CWNE (Certified Wireless Network Expert®) credential is the final step in the CWNP Program. By successfully completing the CWNE requirements, you will have demonstrated that you have the most advanced skills available in today’s enterprise Wi-Fi market.
- 
+
 The CWNE certification assures that you have mastered all relevant skills to administer, install, configure, troubleshoot, and design wireless network systems. Protocol analysis, intrusion detection and prevention, performance and QoS analysis, spectrum analysis and management, and advanced design are some of the areas of expertise you will need to know.
 
-<a href="https://www.flipkart.com/" target="_blank" rel="noopener noreferrer">![Buy Button](/assets/img/buttons/flipkart.png)</a>
+<a href="https://www.flipkart.com/" target="_blank" rel="noopener noreferrer">
+![Buy Button](/assets/img/buttons/flipkart.png)</a>
 
 ## **CWNT® Certified Wireless Network Trainer**
+
 CWNT certified instructors are qualified instructors certified by the CWNP Program to deliver CWNP training courses through Authorized Learning Partners.  CWNTs are technical and instructional experts in enterprise Wi-Fi technologies, products, and solutions. To ensure a superior learning experience for our customers, CWNP Learning  Partners are required to utilize CWNT certified instructors when conducting authorized CWNP training classes using Official CWNP Courseware.
+
+[![FLipkart](/assets/img/buttons/flipkart.png)](https://www.flipkart.com/)
+
+---
 
 <a href="https://www.flipkart.com/" target="_blank" rel="noopener noreferrer">![Buy Button](/assets/img/buttons/flipkart.png)</a>
