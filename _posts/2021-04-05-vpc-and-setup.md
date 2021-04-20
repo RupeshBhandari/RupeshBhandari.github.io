@@ -49,33 +49,33 @@ PC1>
 Static
 
 ```console
-    PC1> ip 192.168.1.1
-    Checking for duplicate address...
-    PC1 : 192.168.1.1 255.255.255.0
+PC1> ip 192.168.1.1
+Checking for duplicate address...
+PC1 : 192.168.1.1 255.255.255.0
 ```
 
 DHCP
 
-    ```
-    PC1> dhcp
-    ```
+```console  
+PC1> dhcp
+```
 
 ## Ping & Traceroute
 Ping
 
 ```console
-    PC1> ping 192.168.1.2
-    84 bytes from 192.168.1.2 icmp_seq=1 ttl=64 time=0.576 ms
-    84 bytes from 192.168.1.2 icmp_seq=2 ttl=64 time=0.512 ms
-    84 bytes from 192.168.1.2 icmp_seq=3 ttl=64 time=0.473 ms
-    84 bytes from 192.168.1.2 icmp_seq=4 ttl=64 time=0.453 ms
-    84 bytes from 192.168.1.2 icmp_seq=5 ttl=64 time=1.182 ms
+PC1> ping 192.168.1.2
+84 bytes from 192.168.1.2 icmp_seq=1 ttl=64 time=0.576 ms
+84 bytes from 192.168.1.2 icmp_seq=2 ttl=64 time=0.512 ms
+84 bytes from 192.168.1.2 icmp_seq=3 ttl=64 time=0.473 ms
+84 bytes from 192.168.1.2 icmp_seq=4 ttl=64 time=0.453 ms
+84 bytes from 192.168.1.2 icmp_seq=5 ttl=64 time=1.182 ms
 ``` 
 
 Traceroute
 
 ```console
-    PC1> trace 192.168.1.2
+PC1> trace 192.168.1.2
     trace to 192.168.1.2, 8 hops max, press Ctrl+C to stop
     1   *192.168.1.2   0.398 ms (ICMP type:3, code:3, Destination port unreachable)
 ```
@@ -85,8 +85,7 @@ The configured IP address will be lost on restart, if you don’t save the confi
 
 ```console
 PC1> save
-Saving startup configuration to startup.vpc
-.  done
+    Saving startup configuration to startup.vpc .  done
 ```
 
 ## Limitations
