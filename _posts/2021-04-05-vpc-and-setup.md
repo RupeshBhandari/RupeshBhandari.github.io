@@ -8,9 +8,10 @@ Tags: [GNS3, Packet Tracer]
 
 Virtual PC Simulator is a program written by Paul Meng, which allows you to simulate a lightweight PC supporting DHCP and ping. It consumes only 2MB of RAM per instance, and does not require an additional image.
 
-The official website: <https://sourceforge.net/projects/vpcs/?source=directory>
+The official website: <https://sourceforge.net/projects/vpcs/?source=directory>{:target="_blank"}
 
 ## Put a VPCS node on your topology
+
 The VPCS node is included with GNS3 by default. No additional configuration is required. It will be located in the End devices category in the Devices list:
 
 ![Step 1](/assets/img/vpc/1.png)
@@ -61,6 +62,7 @@ PC1> dhcp
 ```
 
 ## Ping & Traceroute
+
 Ping
 
 ```console
@@ -70,7 +72,7 @@ PC1> ping 192.168.1.2
 84 bytes from 192.168.1.2 icmp_seq=3 ttl=64 time=0.473 ms
 84 bytes from 192.168.1.2 icmp_seq=4 ttl=64 time=0.453 ms
 84 bytes from 192.168.1.2 icmp_seq=5 ttl=64 time=1.182 ms
-``` 
+```
 
 Traceroute
 
@@ -81,6 +83,7 @@ PC1> trace 192.168.1.2
 ```
 
 ## Save Configuration
+
 The configured IP address will be lost on restart, if you don’t save the config:
 
 ```console
@@ -89,6 +92,7 @@ PC1> save
 ```
 
 ## Limitations
+
 VPCS is a PC simulator. Its implementation of the network stack is not perfect, and you will see bugs when it’s used in complex topologies.
 
 Use of the ipterm docker container is a viable alternative to using VPCS. The ipterm container will require use of linux commands, as well as running it via the GNS3 VM for Windows/Mac OS X users. Linux users can run it natively, provided docker-ce has been installed, and their user was added to the docker group (restarting your user session after adding your user to that group is required).
