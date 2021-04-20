@@ -8,7 +8,7 @@ Tags: [GNS3, Packet Tracer]
 
 Virtual PC Simulator is a program written by Paul Meng, which allows you to simulate a lightweight PC supporting DHCP and ping. It consumes only 2MB of RAM per instance, and does not require an additional image.
 
-The official website: https://sourceforge.net/projects/vpcs/?source=directory
+The official website: <https://sourceforge.net/projects/vpcs/?source=directory>
 
 ## Put a VPCS node on your topology
 The VPCS node is included with GNS3 by default. No additional configuration is required. It will be located in the End devices category in the Devices list:
