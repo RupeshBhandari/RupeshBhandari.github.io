@@ -21,7 +21,7 @@ The CWSP certification is a professional level wireless LAN certification for th
  
 The Certification Magazine annual salary survey results for CWSP show a consistent annual increase in the average salary for CWSPs since 2005.
 
-<a href="https://www.flipkart.com/cwsp/p/itmetjkahy4kbhaa"target="_blank" rel="noopener noreferrer">![Buy Button](/assets/img/buttons/flipkart.png)</a>
+<a href="https://www.flipkart.com/cwsp/p/itmetjkahy4kbhaa" target="_blank" rel="noopener noreferrer">![Buy Button](/assets/img/buttons/flipkart.png)</a>
 
 
 ## **CWAP® Certified Wireless Analysis Professional**
@@ -29,7 +29,7 @@ The CWAP certification is a professional level wireless LAN certification for th
 
 <a href="https://www.flipkart.com/cwap-certified-wireless-analysis-professional-official-study-guide-exam-pwo-270/p/itmdfgy55z3n4m8x" target="_blank" rel="noopener noreferrer">![Buy Button](/assets/img/buttons/flipkart.png)</a>
 
-CWTS® – Certified Wireless Technology Specialist 
+## **CWTS® – Certified Wireless Technology Specialist**
 The CWTS certification validates the knowledge of enterprise WLAN sales and support professionals who must be familiar and confident with the terminology and basic functionality of enterprise 802.11 wireless networks.
 
 <a href="https://www.flipkart.com/cwts-certified-wireless-technology-specialist-official-study-guide-2nd/p/itm5b489777135d4" target="_blank" rel="noopener noreferrer">![Buy Button](/assets/img/buttons/flipkart.png)</a>
