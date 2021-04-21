@@ -18,7 +18,7 @@ Well, why not use it for everything!
 
 - It simply protects your identity across the web
 
-    It has been a new practice where you need to verify email just to access the service the provider provides. Earlier you could have registered with a friend's email(whom you hate!) and accessed the site and let them deal with the spam messages. Lol! However, now you've to verify the email first to access the site or any other services. So, with a disposable email, you could just simply enter any email address ending in ['yopmail.com'](http://www.yopmail.com/en/) and check the email for the OTP sent by the site you want to enter. Search for the OTP message in the inbox and enter it on the site. Vola! No more spam on your email!
+    It has been a new practice where you need to verify email just to access the service the provider provides. Earlier you could have registered with a friend's email(whom you hate!) and accessed the site and let them deal with the spam messages. Lol! However, now you've to verify the email first to access the site or any other services. So, with a disposable email, you could just simply enter any email address ending in <a href="http://www.yopmail.com/en/" target="_blank">'yopmail.com'</a> and check the email for the OTP sent by the site you want to enter. Search for the OTP message in the inbox and enter it on the site. Vola! No more spam on your email!
 - It doesn't require a password
 
     With Yopmail, you don’t need to log in using the mail account or provide any other information. Instead, you can just create it and access it without any password.
@@ -67,7 +67,3 @@ How to create a Yopmail?
 3. You shall find the messages that come to your inbox as shown below.
 
     ![Step 3, Inbox](/assets/img/Yopmail/3.png)
-
-[Page](http://www.yopmail.com/en/?target=_blank)
-
-[Link](<https://example.org/> target="_blank")

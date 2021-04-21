@@ -13,7 +13,6 @@ Tags: [Python]
     - [x] Lists are mutable and tuples are not mutable
     - [ ] Lists are indexed by integers and tuples are indexed by strings
 
-
 2. Which of the following methods work both in Python lists and Python tuples?
 
     - [ ] pop()
@@ -54,9 +53,9 @@ Tags: [Python]
       ...
     ```
 
-    - [ ] (0, 1000, 2000) 
+    - [ ] (0, 1000, 2000)
     - [ ] (5, 0, 300)
-    - [x] (6, 0, 0) 
+    - [x] (6, 0, 0)
     - [ ] (4, 100, 200)
 
 6. What does the following Python code accomplish, assuming the c is a non-empty dictionary?
@@ -111,5 +110,3 @@ Tags: [Python]
     - [ ] For a list of items that want to use strings as key values instead of integers
     - [ ] For a list of items you intend to sort in place
     - [ ] For a list of items that will be extended as new items are found
-
-

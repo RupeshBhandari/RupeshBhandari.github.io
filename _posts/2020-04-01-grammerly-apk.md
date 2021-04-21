@@ -10,6 +10,7 @@ Edit your grammar, spelling, punctuation and more with your personal writing ass
 The keyboard and grammar checker let you write clearly, confidently, and without error in all your applications. Advanced features like the synonyms tool help you build your vocabulary and improve your writing.
 
 How it works?
+
 1. Simply download the Grammarly app and activate Grammarly in your keyboard settings.
 2. You can adjust the appearance of your keyboard for a personalized experience: choose light or dark, the borders of the keys, the row of numbers, etc.
 3. You are now ready to go! Just start typing in any app. Grammarly will check every word, your grammar, spelling and punctuation, suggest synonyms, and help you improve your communication skills.
@@ -25,7 +26,7 @@ Grammarly also supports swipe typing, so you can compose quality writing without
     - Advanced punctuation correction: take the guesswork out of punctuation.
     - Synonyms: Get better word choices and select synonyms as you type.
 
-2. Editorial assistant and proofreader: 
+2. Editorial assistant and proofreader:
 
     - improve your communication skills
     - Receive short and clear explanations for each correction.
@@ -39,7 +40,7 @@ Grammarly also supports swipe typing, so you can compose quality writing without
 
 ---
 
-*** Improve your communication skills with Premium ***
+## **Improve your communication skills with Premium**
 
 Take your writing and communication skills from good to great with our advanced features and suggestions.
 
@@ -47,12 +48,12 @@ Grammarly Premium helps you find the right tone, gives you real-time feedback, a
 
 Premium features include:
 
-    - Improved vocabulary
-    - Clarity improvements
-    - Tone adjustments
-    - Choice of words
-    - Level of formality
-    - Mastery
+- Improved vocabulary
+- Clarity improvements
+- Tone adjustments
+- Choice of words
+- Level of formality
+- Mastery
 
 ---
 

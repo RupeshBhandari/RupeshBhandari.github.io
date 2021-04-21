@@ -9,6 +9,7 @@ Tags: [5G, NTC, NCELL]
 Nepal is all set to become the first country in South Asia to roll out 5G services. It plans to roll out 5G by mid-July of this year. Whereas in India, the telcos haven’t been able to even test the next-generation connectivity properly. Kathmandu, along with three other major cities of Nepal, will have 5G connectivity by the end of this fiscal year. According to a report from The Kathmandu Post, a proposal for issuing a separate frequency for 5G operations was submitted on February 1, 2021, to the National Frequency Determining Committee under the Ministry of Information, Communication and Technology.
 
 ## 5G Testing Might Take Up to One Year
+
 The ministry is currently studying the submitted proposal and is said to announce something by next week. Anup Nepal, Chief Engineer for the Ministry’s Analysis Division and Frequency Management, said that they would have to first identify the spectrum that will be necessary for installing 5G.
 
 Further, it will be then tested in different geographical locations, and the results will be collected before a full-fledged rollout is possible. He said that the trials may take two or three months or might even a complete year.
