@@ -57,7 +57,7 @@ The but in this case are:
 How to create a Yopmail?
 
 1. Go to
-    <a href="http://www.yopmail.com/en/" target="_blank"><http://www.yopmail.com/en/></a>
+    <a href="http://www.yopmail.com/en/" target="_blank">http://www.yopmail.com/en/</a>
 
     ![Step 1, Home Page](/assets/img/Yopmail/1.png)
 
@@ -72,7 +72,3 @@ How to create a Yopmail?
 References:
 
 - Yopmail, <http://www.yopmail.com/en/>
-
-> asdasfsf
->> askdjk
-> kajshdf
