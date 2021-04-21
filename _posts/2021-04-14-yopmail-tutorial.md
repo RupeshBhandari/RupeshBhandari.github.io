@@ -43,7 +43,7 @@ Well, why not use it for everything!
 
 The but in this case are:
 
-- You should remember is that Yopmail (and other disposable email accounts) are not protected.
+- You should remember is that Yopmail[^1] (and other disposable email accounts) are not protected.
 
     In other words, emails that come under the aforesaid account number can be accessed by other users. This problem can't be avoided but it can be 'somewhat' reduced by choosing an ultra-ultra-ultra unique email address. Phew, that's a lot of ultras!
 - Emails received on the Yopmail will stay only for 8 days.
@@ -72,3 +72,5 @@ How to create a Yopmail?
 References:
 
 - Yopmail, <http://www.yopmail.com/en/>
+
+[^1]: <http://www.yopmail.com/en/>
