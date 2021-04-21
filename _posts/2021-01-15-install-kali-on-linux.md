@@ -132,10 +132,6 @@ Kali was built and is maintained by (a href="https://www.offensive-security.com/
 
     ![Step 16.2](/assets/img/kalionvm/16.2.jpg)
 
-    In the next step, select the timezone for your region.
-
-    ![Step 16.3](/assets/img/kalionvm/16.3.jpg)
-
     Select the partitioning scheme, choose “All files in one partition” which is recommended for new users.
 
     ![Step 16.4](/assets/img/kalionvm/16.4.jpg)
