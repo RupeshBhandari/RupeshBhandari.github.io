@@ -56,7 +56,8 @@ The but in this case are:
 
 How to create a Yopmail?
 
-1. Go to <a href="http://www.yopmail.com/en/" target="_blank"><http://www.yopmail.com/en/></a>
+1. Go to
+    <a href="http://www.yopmail.com/en/" target="_blank"><http://www.yopmail.com/en/></a>
 
     ![Step 1, Home Page](/assets/img/Yopmail/1.png)
 
@@ -67,3 +68,11 @@ How to create a Yopmail?
 3. You shall find the messages that come to your inbox as shown below.
 
     ![Step 3, Inbox](/assets/img/Yopmail/3.png)
+
+References:
+
+- Yopmail, <http://www.yopmail.com/en/>
+
+> asdasfsf
+>> askdjk
+> kajshdf

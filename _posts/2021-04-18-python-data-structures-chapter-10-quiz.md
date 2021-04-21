@@ -110,3 +110,8 @@ Tags: [Python]
     - [ ] For a list of items that want to use strings as key values instead of integers
     - [ ] For a list of items you intend to sort in place
     - [ ] For a list of items that will be extended as new items are found
+
+References:
+
+- Coursera
+- University of Michigan
