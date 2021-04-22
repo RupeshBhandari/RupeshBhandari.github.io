@@ -6,9 +6,11 @@ categories: [Linux, Kali, Vmware, TUTORIAL]
 Tags: [Kali Linux, VMWARE] 
 ---
 
+<!-- Bla bla <sup id="a1">[1](#f1)</sup> -->
+
 In this post, I will show you how to install the latest version of Kali Linux (2021.1)[^1] on VMware Workstation 16 Pro [^2]. This will allow you to have a Kali virtual machine as a guest operating system on your host machine. This way of using Kali is very effective and used by a lot of people.
 
-Kali was built and is maintained by (a href="https://www.offensive-security.com/" target="_blank">Offensive Security</a>), it has hundreds of tools available for security auditing, penetration testing and ethical hacking. Below are the steps for installing Kali Linux: –
+Kali was built and is maintained by (<a href="https://www.offensive-security.com/" target="_blank">Offensive Security</a>), it has hundreds of tools available for security auditing, penetration testing and ethical hacking. Below are the steps for installing Kali Linux: –
 
 1. Download the iso file for Kali Linux
 
@@ -208,5 +210,5 @@ I hope this tutorial was helpful. Stay tuned for more updates! 🙂
 
 References:
 
-[^2]: VMware Workstation, <a href="https://en.wikipedia.org/wiki/VMware_Workstation" target="_blank">https://en.wikipedia.org/wiki/VMware_Workstation</a>
 [^1]: Kali Linux 2021, <a href="https://www.kali.org/blog/kali-linux-2021-1-release/" target="_blank">https://www.kali.org/blog/kali-linux-2021-1-release/</a>
+[^2]: VMware Workstation, <a href="https://en.wikipedia.org/wiki/VMware_Workstation" target="_blank">https://en.wikipedia.org/wiki/VMware_Workstation</a>
