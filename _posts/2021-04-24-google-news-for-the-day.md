@@ -1,7 +1,7 @@
 ---
 title: "Google News for the day"
 author: "Rupesh Bhandari"
-date: "2021-04-24 08:49:53 +0545"
+date: "2021-04-24 09:43:27 +0545"
 categories: [News]
 Tags: [GOOG]
 ---
