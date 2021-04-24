@@ -1,7 +1,7 @@
 ---
 title: "TSLA News for the day"
 author: "Rupesh Bhandari"
-date: "2021-04-24 08:35:01 +0545"
+date: "2021-04-24 08:39:35 +0545"
 categories: [News]
 Tags: [TSLA]
 ---
