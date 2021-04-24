@@ -1,7 +1,7 @@
 ---
 title: "Tesla News for the day"
 author: "Rupesh Bhandari"
-date: "2021-04-24 08:49:01 +0545"
+date: "2021-04-24 08:49:53 +0545"
 categories: [News]
 Tags: [TSLA]
 ---
@@ -14,7 +14,7 @@ So what did the stock market do today? Investors watched Elon Musk wrap up a rea
 
 ![News Image](https://cdn.snapi.dev/images/v1/8/d/specialty18-782942.jpg)
 
-                                [Read More](https://investorplace.com/2021/04/what-did-the-stock-market-do-today-3-big-stories-elon-musk-safemoon-doge-btc/)
+[Read More](https://investorplace.com/2021/04/what-did-the-stock-market-do-today-3-big-stories-elon-musk-safemoon-doge-btc/)
 
 ---
         
@@ -26,7 +26,7 @@ Stocks finish week strong; Snap, Element Solutions near buy points with Tesla ea
 
 ![News Image](https://cdn.snapi.dev/images/v1/c/6/stocks-finish-week-strong-snap-element-solutions-near-buy-points-with-tesla-earnings-on-tap-782857.jpg)
 
-                                [Read More](https://www.youtube.com/watch?v=vJKXqf656Ek)
+[Read More](https://www.youtube.com/watch?v=vJKXqf656Ek)
 
 ---
         
@@ -38,7 +38,7 @@ A deadly Tesla crash in Texas raised questions about Tesla's Autopilot feature. 
 
 ![News Image](https://cdn.snapi.dev/images/v1/s/b/210423083421-consumer-reports-tesla-autopilot-test-super-169-782751.jpg)
 
-                                [Read More](https://www.cnn.com/videos/cars/2021/04/22/tesla-autopilot-consumer-reports-elon-musk-texas-crash-orig.cnn-business)
+[Read More](https://www.cnn.com/videos/cars/2021/04/22/tesla-autopilot-consumer-reports-elon-musk-texas-crash-orig.cnn-business)
 
 ---
         
@@ -50,7 +50,7 @@ It's been a week of relentless scrutiny for Tesla at home and in China. The elec
 
 ![News Image](https://cdn.snapi.dev/images/v1/t/e/tesla-is-facing-a-backlash-from-the-chinese-government-following-an-owners-protest-over-faulty-brakes-782760.jpg)
 
-                                [Read More](https://www.businessinsider.com/tesla-china-protest-brakes-crash-backlash-apology-2021-4)
+[Read More](https://www.businessinsider.com/tesla-china-protest-brakes-crash-backlash-apology-2021-4)
 
 ---
         
