@@ -53,3 +53,15 @@ Axel Springer among companies claiming controls will damage targeted advertising
 [Read More](https://www.ft.com/content/0a48d9aa-244b-4945-b2a0-01c68683544a)
 
 ---
+
+## They're coming in hot: The best quotes from our interviews with Congress' most diverse freshman class - POLITICO
+
+2021-04-26T11:06:57Z Politico by Brooke Minters, Eugene Daniels, Krystal Campos, Michael Cadenhead
+
+![News Image](https://static.politico.com/1b/ee/da0db71649d3be064dd4dcd660e9/red-fresh-blue-illo-final-1.jpg)
+
+We spoke with five of Congress’ newest members from across the aisle on what it’s like to work in a post-insurrection Washington.
+
+[Read More](https://www.politico.com/news/2021/04/26/new-117th-congress-freshman-members-diversity-2021-483987)
+
+---
