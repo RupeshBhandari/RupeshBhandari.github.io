@@ -209,3 +209,15 @@ DUBAI, United Arab Emirates (AP) — A recording of Iran's foreign minister offe
 [Read More](https://apnews.com/article/iran-iran-nuclear-middle-east-europe-0068e6e181a4cc9aaa8433d8257ce04e)
 
 ---
+
+## China Investigates Meituan For Suspected Monopolistic Practices - Bloomberg
+
+2021-04-26T08:37:22Z Bloomberg by None
+
+![News Image](None)
+
+None
+
+[Read More](https://www.bloomberg.com/tosv2.html?vid=&uuid=e677f480-a68e-11eb-8682-cd4c1b1f94b2&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wNC0yNi9jaGluYS1pbnZlc3RpZ2F0ZXMtbWVpdHVhbi1mb3Itc3VzcGVjdGVkLW1vbm9wb2xpc3RpYy1wcmFjdGljZXM=)
+
+---
