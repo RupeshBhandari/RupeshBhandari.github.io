@@ -137,3 +137,15 @@ Tesla (TSLA) is set to announce its first-quarter 2021 financial results today, 
 [Read More](https://abcnews.go.com/Politics/trust-johnson-johnsons-coronavirus-vaccine-low-intent-inoculated/story?id=77218518)
 
 ---
+
+## 2021 NFL Mock Draft: 49ers lock in on Ohio State QB Justin Fields, Broncos trade up for NDSU QB Trey Lance | NFL Draft - Pro Football Focus
+
+2021-04-26T10:01:39Z Pff.com by Eric Eager and George Chahrouri
+
+![News Image](https://media.pff.com/2021/04/Fields.jpg?w=956&h=538)
+
+PFF's Eric Eager and George Chahrouri mock the first round of the 2021 NFL Draft, sending Justin Fields to the 49ers and Trey Lance to the Broncos.
+
+[Read More](https://www.pff.com/news/draft-2021-nfl-mock-draft-49ers-justin-fields-broncos-trade-trey-lance)
+
+---
