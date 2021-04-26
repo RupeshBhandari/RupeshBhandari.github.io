@@ -101,3 +101,15 @@ During the week of April 26, members of NASA’s Planetary Defense Coordination 
 [Read More](https://scitechdaily.com/planetary-defense-conference-nasa-to-participate-in-exercise-simulating-asteroid-impact/)
 
 ---
+
+## POLITICO Playbook: Democrats spar over Biden's next mega-proposal - Politico
+
+2021-04-26T10:15:32Z Politico by https://www.facebook.com/rachael.bade.9
+
+![News Image](https://static.politico.com/08/10/15acd252430e9e4cedc977888fda/210426-sanders-biden-ap-773.jpg)
+
+And VP Kamala Harris plans a warning for the U.N.
+
+[Read More](https://www.politico.com/newsletters/playbook/2021/04/26/democrats-spar-over-bidens-next-mega-proposal-492595)
+
+---
