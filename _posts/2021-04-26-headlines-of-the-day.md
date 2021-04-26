@@ -77,3 +77,15 @@ Total's $20bn (£14.6bn) gas liquification plant is the largest foreign investme
 [Read More](https://www.bbc.com/news/world-africa-56886085)
 
 ---
+
+## Alaska Airlines bans state senator for 'continued refusal' to follow mask rules - NBC News
+
+2021-04-26T10:31:00Z NBC News by The Associated Press
+
+![News Image](https://media4.s-nbcnews.com/j/newscms/2021_17/3467792/210426-lora_reinbold-mc-1127_6126b632c98330ee2572978ed91e00e7.nbcnews-fp-1200-630.jpg)
+
+Senator Lora Reinbold, a Republican of Eagle River, said she had not been notified of a ban and that she hoped to be on an Alaska Airlines flight in the near future.
+
+[Read More](https://www.nbcnews.com/news/us-news/alaska-airlines-bans-state-senator-continued-refusal-follow-mask-rules-n1265332)
+
+---
