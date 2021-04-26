@@ -197,3 +197,15 @@ President Biden promised a lot as a candidate and acted swiftly once in office, 
 [Read More](https://www.npr.org/2021/04/26/990305593/100-days-how-biden-has-fared-so-far-on-his-promises)
 
 ---
+
+## Leaked recording of Iran's top diplomat offers blunt talk - The Associated Press
+
+2021-04-26T08:37:23Z Associated Press by Jon Gambrell
+
+![News Image](https://storage.googleapis.com/afs-prod/media/8e70d43e6b3d4257bfea9b28b8e2cad3/3000.jpeg)
+
+DUBAI, United Arab Emirates (AP) — A recording of Iran's foreign minister offering a blunt appraisal of diplomacy and the limits of power within the Islamic Republic has been leaked, providing a rare look inside the country's theocracy.  The release of the co…
+
+[Read More](https://apnews.com/article/iran-iran-nuclear-middle-east-europe-0068e6e181a4cc9aaa8433d8257ce04e)
+
+---
