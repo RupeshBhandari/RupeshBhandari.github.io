@@ -41,3 +41,15 @@ Big news for North Carolina, Apple unveiled plans to build a campus and engineer
 [Read More](https://abc11.com/apple-research-triangle-park-north-carolina/10547896/)
 
 ---
+
+## German groups file Apple antitrust complaint as it makes privacy changes - Financial Times
+
+2021-04-26T11:13:47Z Financial Times by None
+
+![News Image](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0894b1f2-9b8c-4b3e-aed8-99c0d59eb2b3.jpg?source=next-opengraph&fit=scale-down&width=900)
+
+Axel Springer among companies claiming controls will damage targeted advertising on iPhones
+
+[Read More](https://www.ft.com/content/0a48d9aa-244b-4945-b2a0-01c68683544a)
+
+---
