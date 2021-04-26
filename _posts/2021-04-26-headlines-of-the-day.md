@@ -221,3 +221,15 @@ None
 [Read More](https://www.bloomberg.com/tosv2.html?vid=&uuid=e677f480-a68e-11eb-8682-cd4c1b1f94b2&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wNC0yNi9jaGluYS1pbnZlc3RpZ2F0ZXMtbWVpdHVhbi1mb3Itc3VzcGVjdGVkLW1vbm9wb2xpc3RpYy1wcmFjdGljZXM=)
 
 ---
+
+## Full moon in April 2021: When to see the 'Pink' supermoon - CNN 
+
+2021-04-26T08:33:00Z CNN by Ada Wood and Ashley Strickland, CNN
+
+![News Image](https://cdn.cnn.com/cnnnext/dam/assets/210331153224-pink-moon-2020-restricted-super-tease.jpg)
+
+The Pink supermoon is the second-closest full moon to Earth in 2021, making it appear bigger and brighter in the sky. It's also the second in a series of four supermoons in a row.
+
+[Read More](https://www.cnn.com/2021/04/26/world/pink-supermoon-april-2021-scn/index.html)
+
+---
