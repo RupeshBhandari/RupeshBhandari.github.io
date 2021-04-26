@@ -161,3 +161,15 @@ PFF's Eric Eager and George Chahrouri mock the first round of the 2021 NFL Draft
 [Read More](https://www.buzzfeednews.com/article/benhenry/chadwick-boseman-best-actor-oscars-anthony-hopkins)
 
 ---
+
+## MMQB: Shad Khan Talks About Trevor Lawrence (Without Confirming the Pick, Of Course) - Sports Illustrated
+
+2021-04-26T10:00:00Z Sports Illustrated by Albert Breer
+
+![News Image](https://www.si.com/.image/t_share/MTgwNTg0MTk3NzY3ODMyNjY0/mmqb-shad-khan-urban-meyer-trevor-lawrence-jacksonville-jaguars.jpg)
+
+Who will the Jaguars pick No. 1? (Wink, wink.) Inside Urban Meyer's hiring process and a franchise-defining decision on Thursday. Plus: Jim Nagy on the class of 2021, team needs and possible targets for all 32 teams and much more.
+
+[Read More](https://www.si.com/nfl/2021/04/26/mmqb-shad-khan-trevor-lawrence-jaguars-nfl-draft-all-team-needs)
+
+---
