@@ -89,3 +89,15 @@ Senator Lora Reinbold, a Republican of Eagle River, said she had not been notifi
 [Read More](https://www.nbcnews.com/news/us-news/alaska-airlines-bans-state-senator-continued-refusal-follow-mask-rules-n1265332)
 
 ---
+
+## Planetary Defense Conference: NASA to Participate in Exercise Simulating Asteroid Impact - SciTechDaily
+
+2021-04-26T10:22:34Z SciTechDaily by None
+
+![News Image](https://scitechdaily.com/images/Ancient-100-Kilometer-Diameter-Impact-Crater.jpg)
+
+During the week of April 26, members of NASA’s Planetary Defense Coordination Office (PDCO) will participate in a “tabletop exercise” to simulate an asteroid impact scenario. The exercise depicting this fictional event is being led by NASA’s Jet Propulsion La…
+
+[Read More](https://scitechdaily.com/planetary-defense-conference-nasa-to-participate-in-exercise-simulating-asteroid-impact/)
+
+---
