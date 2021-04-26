@@ -173,3 +173,15 @@ Who will the Jaguars pick No. 1? (Wink, wink.) Inside Urban Meyer's hiring proce
 [Read More](https://www.si.com/nfl/2021/04/26/mmqb-shad-khan-trevor-lawrence-jaguars-nfl-draft-all-team-needs)
 
 ---
+
+## As India breaks another global Covid-19 record and hospitals run out of oxygen, countries pledge assistance and aid - CNN 
+
+2021-04-26T09:15:00Z CNN by Jessie Yeung, CNN
+
+![News Image](https://cdn.cnn.com/cnnnext/dam/assets/210426092440-02-india-coronvairus-0425-super-tease.jpg)
+
+As India fights a devastating second wave of Covid-19 that is killing thousands each day, international efforts to help tackle the crisis are hastening, with both Britain and the United States pledging aid and much-needed medical supplies.
+
+[Read More](https://www.cnn.com/2021/04/26/india/india-covid-international-aid-intl-hnk/index.html)
+
+---
