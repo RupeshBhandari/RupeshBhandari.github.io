@@ -29,3 +29,15 @@ On social media, the director’s fans blurred out her name and turned images on
 [Read More](https://www.nytimes.com/2021/04/26/world/asia/china-chloe-zhao-oscars.html)
 
 ---
+
+## Apple unveils $1B investment to build east coast hub in Research Triangle, creating at least 3,000 jobs - WTVD-TV
+
+2021-04-26T11:21:11Z WTVD-TV by Joel Brown, Jonah Kaplan
+
+![News Image](https://cdn.abcotvs.com/dip/images/10548901_AppleGeneric.jpg?w=1600)
+
+Big news for North Carolina, Apple unveiled plans to build a campus and engineering hub in the Research Triangle, committing more than $1 billion in investments and creating at least 3,000 new jobs for the area.
+
+[Read More](https://abc11.com/apple-research-triangle-park-north-carolina/10547896/)
+
+---
