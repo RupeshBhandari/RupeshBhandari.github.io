@@ -113,3 +113,15 @@ And VP Kamala Harris plans a warning for the U.N.
 [Read More](https://www.politico.com/newsletters/playbook/2021/04/26/democrats-spar-over-bidens-next-mega-proposal-492595)
 
 ---
+
+## Tesla (TSLA) Q1 2021 earnings preview: Here’s what people are expecting - Electrek.co
+
+2021-04-26T10:07:00Z Electrek by None
+
+![News Image](https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1)
+
+Tesla (TSLA) is set to announce its first-quarter 2021 financial results today, April 26, after the markets close. As usual, a conference call and Q&A with Tesla’s management is scheduled after the results. We’ll take a look below at what both the street and …
+
+[Read More](https://electrek.co/2021/04/26/tesla-tsla-q1-2021-earnings-preview-expectations/)
+
+---
