@@ -185,3 +185,15 @@ As India fights a devastating second wave of Covid-19 that is killing thousands 
 [Read More](https://www.cnn.com/2021/04/26/india/india-covid-international-aid-intl-hnk/index.html)
 
 ---
+
+## Status Of Biden's Promises After 100 Days In Office - NPR
+
+2021-04-26T09:04:00Z NPR by 
+
+![News Image](https://media.npr.org/assets/img/2021/04/23/reportcard-cbeck_wide-64f7243976e118daaed697e21e86181f4ca0dc96.jpg?s=1400)
+
+President Biden promised a lot as a candidate and acted swiftly once in office, particularly in regards to the coronavirus. But there are still areas in progress and goals that haven't been achieved.
+
+[Read More](https://www.npr.org/2021/04/26/990305593/100-days-how-biden-has-fared-so-far-on-his-promises)
+
+---
