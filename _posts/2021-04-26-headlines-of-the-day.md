@@ -149,3 +149,15 @@ PFF's Eric Eager and George Chahrouri mock the first round of the 2021 NFL Draft
 [Read More](https://www.pff.com/news/draft-2021-nfl-mock-draft-49ers-justin-fields-broncos-trade-trey-lance)
 
 ---
+
+## The Oscars Are Facing Backlash After Chadwick Boseman Didn't Win During A "Chaotic" Climax To The Show - BuzzFeed News
+
+2021-04-26T10:01:00Z BuzzFeed News by Ben Henry
+
+![News Image](https://img.buzzfeed.com/buzzfeed-static/static/2021-04/26/9/enhanced/cb8b5e23a634/original-2970-1619430909-37.jpg?crop=1250:654;0,0)
+
+"Did the Academy hold Best Actor until the end because they assumed Chadwick Boseman would posthumously win and then he didn't?"
+
+[Read More](https://www.buzzfeednews.com/article/benhenry/chadwick-boseman-best-actor-oscars-anthony-hopkins)
+
+---
