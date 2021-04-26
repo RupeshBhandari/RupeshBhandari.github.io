@@ -17,3 +17,15 @@ The CDC recommendations for mask-wearing among fully vaccinated people — who c
 [Read More](https://www.washingtonpost.com/health/2021/04/26/vaccinated-wear-a-mask/)
 
 ---
+
+## China Censors Chloé Zhao’s Oscar Win - The New York Times
+
+2021-04-26T11:26:37Z New York Times by Amy Qin, Amy Chang Chien
+
+![News Image](https://static01.nyt.com/images/2021/04/26/world/26china-oscars-01/26china-oscars-01-facebookJumbo.jpg)
+
+On social media, the director’s fans blurred out her name and turned images on their sides to evade the censors. “People should be celebrating,” one writer said.
+
+[Read More](https://www.nytimes.com/2021/04/26/world/asia/china-chloe-zhao-oscars.html)
+
+---
