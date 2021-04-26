@@ -65,3 +65,15 @@ We spoke with five of Congress’ newest members from across the aisle on what i
 [Read More](https://www.politico.com/news/2021/04/26/new-117th-congress-freshman-members-diversity-2021-483987)
 
 ---
+
+## Mozambique gas project: Total halts work after Palma attacks - BBC News
+
+2021-04-26T10:59:44Z BBC News by https://www.facebook.com/bbcnews
+
+![News Image](https://ichef.bbci.co.uk/news/1024/branded_news/13006/production/_117803877_gettyimages-1232052021.jpg)
+
+Total's $20bn (£14.6bn) gas liquification plant is the largest foreign investment in Africa.
+
+[Read More](https://www.bbc.com/news/world-africa-56886085)
+
+---
