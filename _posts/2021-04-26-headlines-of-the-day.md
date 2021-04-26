@@ -125,3 +125,15 @@ Tesla (TSLA) is set to announce its first-quarter 2021 financial results today, 
 [Read More](https://electrek.co/2021/04/26/tesla-tsla-q1-2021-earnings-preview-expectations/)
 
 ---
+
+## Trust in Johnson & Johnson's coronavirus vaccine is low, yet overall intent to get inoculated rises: POLL - ABC News
+
+2021-04-26T10:02:49Z ABC News by Steven Sparks
+
+![News Image](https://s.abcnews.com/images/Health/jandj-needle_hpMain_20210423-163213_16x9_992.jpg)
+
+
+
+[Read More](https://abcnews.go.com/Politics/trust-johnson-johnsons-coronavirus-vaccine-low-intent-inoculated/story?id=77218518)
+
+---
