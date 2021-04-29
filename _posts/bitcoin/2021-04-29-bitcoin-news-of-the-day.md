@@ -1,11 +1,23 @@
 ---
 title: "Bitcoin news of the day"
 author: "Rupesh Bhandari"
-date: "2021-04-26 20:24:12 +0545"
+date: "2021-04-29 09:57:42 +0545"
 categories: [News]
 Tags: [Lifehacker.com]
 ---
 
+## Tesla sees bitcoin as important financial tool to access cash quickly
+
+2021-04-27T01:36:46Z Rebecca Bellan
+
+![News Image](https://techcrunch.com/wp-content/uploads/2021/02/tesla-bitcoin-alt.jpg?w=711)
+
+Tesla’s relationship with bitcoin is not a dalliance, according to the comments made by the company’s CFO and dubbed “master of coin” Zach Kirkhorn during an earnings call Monday. Instead, the company believes in the longevity of bitcoin, despite its volatili…
+
+[Read More](http://techcrunch.com/2021/04/26/tesla-sees-bitcoin-as-important-financial-tool-to-access-cash-quickly/)
+
+---
+    
 ## You Can Now Exchange Crypto on Venmo, If You're Into That Sort of Thing
 
 2021-04-20T19:00:00Z Mike Winters
@@ -17,7 +29,7 @@ Cryptocurrency continues to gain mainstream acceptance, as PayPal announced that
 [Read More](https://twocents.lifehacker.com/you-can-now-exchange-crypto-on-venmo-if-youre-into-tha-1846724048)
 
 ---
-
+    
 ## Crypto market takes a dive with Bitcoin leading the way
 
 2021-04-23T17:58:10Z Lucas Matney
@@ -29,7 +41,7 @@ Cryptocurrency prices continued to tumble Friday with Bitcoin leading the charge
 [Read More](http://techcrunch.com/2021/04/23/crypto-market-takes-a-dive-with-bitcoin-leading-the-way/)
 
 ---
-
+    
 ## African crypto usage spurs Luno as customers reach 7M
 
 2021-04-13T08:30:21Z Tage Kene-Okafor
@@ -41,7 +53,7 @@ The crypto industry as a whole has seen a momentous year of growth, heavily spur
 [Read More](http://techcrunch.com/2021/04/13/african-crypto-usage-spurs-luno-as-customers-reach-7m/)
 
 ---
-
+    
 ## Where to Get Free and Cheap Burritos for National Burrito Day
 
 2021-03-31T18:30:00Z Aisha Jordan
@@ -53,7 +65,19 @@ National Burrito Day lands on April Fool’s Day this year, but thankfully resta
 [Read More](https://lifehacker.com/where-to-get-free-and-cheap-burritos-for-national-burri-1846590609)
 
 ---
+    
+## Tesla: Bitcoin sales, environmental credits boost profits
 
+2021-04-27T04:22:49Z https://www.facebook.com/bbcnews
+
+![News Image](https://ichef.bbci.co.uk/news/1024/branded_news/13E5E/production/_118220518_gettyimages-1228322928.jpg)
+
+But the carmaker's profits were dented by a $299m payment to Tesla boss Elon Musk.
+
+[Read More](https://www.bbc.co.uk/news/business-56897457)
+
+---
+    
 ## How to Create NFTs for Fun and Profit, Maybe
 
 2021-03-29T13:30:00Z David Murphy
@@ -65,7 +89,7 @@ It seems like everyone is making money off of NFTs, or non-fungible tokens, thos
 [Read More](https://lifehacker.com/how-to-create-nfts-for-fun-and-profit-maybe-1846562554)
 
 ---
-
+    
 ## Jack and Elon Are Promoting Bitcoin on Earth Day for Some Reason (It Makes Them Richer)
 
 2021-04-22T20:29:00Z Brian Kahn
@@ -77,7 +101,7 @@ Earth Day is prime time for brands and people to promote their pre-existing prod
 [Read More](https://earther.gizmodo.com/jack-and-elon-are-promoting-bitcoin-on-earth-day-for-so-1846742228)
 
 ---
-
+    
 ## Venmo now lets users buy and sell Bitcoin and Ethereum
 
 2021-04-20T11:23:13Z Stan Schroeder
@@ -91,7 +115,7 @@ Four cryptocurrencies are currently supported: Bitcoin, Ethereum, Lit…
 [Read More](https://mashable.com/article/venmo-crypto/)
 
 ---
-
+    
 ## Crypto trading on Robinhood spiked to 9.5M customers in first quarter
 
 2021-04-08T21:36:56Z Mary Ann Azevedo
@@ -103,7 +127,7 @@ It’s been a big year for crypto, and Robinhood shared some stats today providi
 [Read More](http://techcrunch.com/2021/04/08/crypto-trading-on-robinhood-spiked-to-9-5m-customers-in-first-quarter/)
 
 ---
-
+    
 ## MicroStrategy says non-employee directors to get fee in bitcoin - Reuters
 
 2021-04-12T12:38:00Z Reuters Staff
@@ -115,7 +139,19 @@ MicroStrategy Inc, a major bitcoin corporate backer, said on Monday its non-empl
 [Read More](https://www.reuters.com/article/us-crypto-currency-microstrategy-idUSKBN2BZ1FB)
 
 ---
+    
+## Crusoe Energy is tackling energy use for cryptocurrencies and data centers and greenhouse gas emissions
 
+2021-04-26T15:02:54Z Jonathan Shieber
+
+![News Image](https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?w=600)
+
+The two founders of Crusoe Energy think they may have a solution to two of the largest problems facing the planet today — the increasing energy footprint of the tech industry and the greenhouse gas emissions associated with the natural gas industry. Crusoe, w…
+
+[Read More](http://techcrunch.com/2021/04/26/crusoe-energy-is-tackling-energy-use-for-cryptocurrencies-and-data-centers-and-greenhouse-gas-emissions/)
+
+---
+    
 ## Dogecoin: Everything you need to know about the cryptocurrency
 
 2021-04-22T10:14:40Z Stan Schroeder
@@ -129,7 +165,7 @@ In a way, they'd be …
 [Read More](https://mashable.com/article/dogecoin-cryptocurrency-explainer/)
 
 ---
-
+    
 ## PayPal’s new feature allows U.S. consumers to check out using cryptocurrency
 
 2021-03-30T13:54:47Z Sarah Perez
@@ -141,7 +177,7 @@ PayPal this morning announced the launch of Checkout with Crypto, a new feature 
 [Read More](http://techcrunch.com/2021/03/30/paypals-new-feature-allows-u-s-consumers-to-check-out-using-cryptocurrency/)
 
 ---
-
+    
 ## MicroStrategy says non-employee directors to get fee in bitcoin - Reuters
 
 2021-04-12T12:20:00Z Reuters Staff
@@ -153,7 +189,7 @@ MicroStrategy Inc, a major bitcoin corporate backer, said on Monday its non-empl
 [Read More](https://www.reuters.com/article/crypto-currency-microstrategy-idUSL4N2M533T)
 
 ---
-
+    
 ## Funko will combine its collectible figures with NFTs
 
 2021-04-01T13:08:32Z https://www.engadget.com/about/editors/jon-fingas
@@ -165,7 +201,7 @@ Funko has claimed a stake in a company, TokenHead, that will let it offer digita
 [Read More](https://www.engadget.com/funko-pop-tokenhead-nft-figurines-130832244.html)
 
 ---
-
+    
 ## Elon Musk, Jack Dorsey Argue that Bitcoin Incentivises Renewable Energy
 
 2021-04-24T17:34:00Z EditorDavid
@@ -181,7 +217,7 @@ The cyrptocurrency's carbon footprint is …
 [Read More](https://news.slashdot.org/story/21/04/24/0456207/elon-musk-jack-dorsey-argue-that-bitcoin-incentivises-renewable-energy)
 
 ---
-
+    
 ## Tiger Global backs Indian crypto startup Coinswitch Kuber at over $500M valuation
 
 2021-04-22T09:32:22Z Manish Singh
@@ -193,51 +229,16 @@ Coinswitch Kuber, a startup that allows young users in India to invest in crypto
 [Read More](http://techcrunch.com/2021/04/22/tiger-global-backs-indian-crypto-startup-coinswitch-kuber-at-over-500m-valuation/)
 
 ---
+    
+## Tesla records $27 mln in impairment losses on bitcoin investment - Reuters
 
-## PayPal starts taking bitcoin at checkout - Reuters.com
+2021-04-28T10:27:00Z Reuters Staff
 
-2021-03-30T13:40:41Z Reuters Editorial
+![News Image](https://static.reuters.com/resources/r/?m=02&d=20210428&t=2&i=1560202159&r=LYNXMPEH3R0MC&w=800)
 
-![News Image](https://static.reuters.com/resources/r/?d=20210330&i=OVE6A55E3&r=OVE6A55E3&t=2)
+Tesla records $27 mln in impairment losses on bitcoin investment  Reuters
 
-PayPal says it has started letting customers use bitcoin at checkout, marking the latest sign that mainstream financial firms are moving to accept cryptocurrencies. Julian Satterthwaite reports.
-
-[Read More](https://www.reuters.com/video/watch/idOVE6A55E3)
-
----
-
-## Bitcoin falls 7.7% to $55,408 - Reuters
-
-2021-04-18T04:13:00Z Reuters Staff
-
-![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
-
-Bitcoin, the world's biggest and best-known cryptocurrency, dropped 7.7% to $55,408.08 on Sunday, losing $4,624.21 from its previous close.
-
-[Read More](https://www.reuters.com/article/crypto-currency-bitcoin-idUSFWN2MA0B7)
+[Read More](https://www.reuters.com/article/us-crypto-currency-tesla-idUSKBN2CF1BG)
 
 ---
-
-## Bitcoin hits record high of $62,575 - Reuters
-
-2021-04-13T08:23:00Z Reuters Staff
-
-![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
-
-Bitcoin hit a record of $62,575 on Tuesday, extending its 2021 rally to new heights.
-
-[Read More](https://www.reuters.com/article/crypto-currency-idUSL8N2M61VW)
-
----
-
-## Bitcoin hits record high of $62,575 - Reuters.com
-
-2021-04-13T08:41:00Z Reuters Staff
-
-![News Image](https://static.reuters.com/resources/r/?m=02&d=20210413&t=2&i=1558248776&r=LYNXMPEH3C0FC&w=800)
-
-Bitcoin hit a record of $62,575 on Tuesday, extending its 2021 rally to new heights.
-
-[Read More](https://www.reuters.com/article/us-crypto-currency-idUSKBN2C00W9)
-
----
+    
