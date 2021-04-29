@@ -1,7 +1,7 @@
 ---
 title: "Sex news of the day"
 author: "Rupesh Bhandari"
-date: "2021-04-29 10:28:35 +0545"
+date: "2021-04-29 10:37:15 +0545"
 categories: [News]
 Tags: [Mashable]
 ---
@@ -133,7 +133,7 @@ Now, warming up your sex toys isn't an entirely new idea, per se. Te…
     
 ## India's first 'intimacy coordinator' helps choreograph sex on screen
 
-2021-04-17T23:12:38Z https://www.facebook.com/bbcnews
+2021-04-17T23:12:38Z <https://www.facebook.com/bbcnews>
 
 ![News Image](https://ichef.bbci.co.uk/news/1024/branded_news/0BBD/production/_118050030_photo-2021-04-11-15-37-53-1.jpg)
 
@@ -169,7 +169,7 @@ Three weeks into her tenure as Boston’s acting mayor, Kim Janey has done somet
     
 ## Sexual health: 'I can't tell my mum I'm having sex'
 
-2021-04-08T23:01:05Z https://www.facebook.com/bbcnews
+2021-04-08T23:01:05Z <https://www.facebook.com/bbcnews>
 
 ![News Image](https://ichef.bbci.co.uk/news/1024/branded_news/108E0/production/_117880876_gettyimages-159429908.jpg)
 
@@ -205,7 +205,7 @@ The congressman was at the time under investigation over whether he violated sex
     
 ## Why Australia is in hysterics over a 'navy twerking' dance
 
-2021-04-15T08:39:06Z https://www.facebook.com/bbcnews
+2021-04-15T08:39:06Z <https://www.facebook.com/bbcnews>
 
 ![News Image](https://ichef.bbci.co.uk/news/1024/branded_news/17DC8/production/_118063779_c33922dc-535d-403c-a662-4cfae47e39b8.png)
 
@@ -217,7 +217,7 @@ Dancers in hotpants at a military event have sparked a heated debate about women
     
 ## Grenade-shaped sex toy sparks police alert in Germany
 
-2021-04-28T10:10:31Z https://www.facebook.com/bbcnews
+2021-04-28T10:10:31Z <https://www.facebook.com/bbcnews>
 
 ![News Image](https://ichef.bbci.co.uk/news/1024/branded_news/17F7D/production/_118237189_bild.jpg)
 

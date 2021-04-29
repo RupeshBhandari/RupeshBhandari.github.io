@@ -1,7 +1,7 @@
 ---
 title: "Education news of the day"
 author: "Rupesh Bhandari"
-date: "2021-04-29 10:28:35 +0545"
+date: "2021-04-29 10:37:15 +0545"
 categories: [News]
 Tags: [TechCrunch]
 ---

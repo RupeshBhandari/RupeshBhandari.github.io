@@ -1,14 +1,14 @@
 ---
 title: "Covid-19 news of the day"
 author: "Rupesh Bhandari"
-date: "2021-04-29 10:28:35 +0545"
+date: "2021-04-29 10:37:15 +0545"
 categories: [News]
 Tags: [Engadget]
 ---
 
 ## Alexa can help you find a COVID-19 vaccination site
 
-2021-04-20T15:14:40Z https://www.engadget.com/about/editors/jon-fingas
+2021-04-20T15:14:40Z <https://www.engadget.com/about/editors/jon-fingas>
 
 ![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-04/73830b10-a1e6-11eb-bdf2-57fabbd8c037)
 
@@ -20,7 +20,7 @@ Amazon Alexa now helps you find nearby COVID-19 vaccination sites, and call them
     
 ## Facebook freezes Venezuela president's page over false COVID-19 claims
 
-2021-03-27T16:05:17Z https://www.engadget.com/about/editors/jon-fingas
+2021-03-27T16:05:17Z <https://www.engadget.com/about/editors/jon-fingas>
 
 ![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-03/586ab910-8f10-11eb-9bdc-a21265f3cc9d)
 
@@ -32,7 +32,7 @@ Facebook has frozen the page of Venezuela president Maduro for a month for posti
     
 ## You can now book a COVID-19 vaccine through Uber
 
-2021-04-28T16:52:51Z https://www.engadget.com/about/editors/kris-holt
+2021-04-28T16:52:51Z <https://www.engadget.com/about/editors/kris-holt>
 
 ![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-04/c9dcd130-a83f-11eb-bff5-d77d7000f88b)
 
@@ -44,7 +44,7 @@ You'll also be able to reserve a rental car and have a valet drop it off..
     
 ## Uber, PayPal and Walgreens set up a Vaccine Access Fund
 
-2021-04-12T15:00:56Z https://www.engadget.com/about/editors/kris-holt
+2021-04-12T15:00:56Z <https://www.engadget.com/about/editors/kris-holt>
 
 ![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-04/6031a890-9b9d-11eb-93bf-f9d0aa515883)
 
@@ -56,7 +56,7 @@ Anyone can donate and help to cover the cost of rides to COVID-19 vaccination si
     
 ## The airline industry will release a COVID-19 passport for your iPhone next month
 
-2021-03-31T18:35:50Z https://www.engadget.com/about/editors/igor-bonifacic
+2021-03-31T18:35:50Z <https://www.engadget.com/about/editors/igor-bonifacic>
 
 ![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-03/3a8a6ea0-924d-11eb-bd9c-4e823b2855b5)
 
@@ -92,7 +92,7 @@ You’re fully vaccinated and you’ve got a little paper card to prove it. So w
     
 ## New York rolls out first digital COVID-19 vaccine passports in the US
 
-2021-03-28T15:27:22Z https://www.engadget.com/about/editors/jon-fingas
+2021-03-28T15:27:22Z <https://www.engadget.com/about/editors/jon-fingas>
 
 ![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-03/9228f040-8fd3-11eb-a97a-cce4d9198cef)
 
@@ -104,7 +104,7 @@ New York state has launched the US' first vaccine passports in the form of the m
     
 ## What did the pandemic mean for Microsoft? A 44 percent jump in profits
 
-2021-04-27T20:49:21Z https://www.engadget.com/about/editors/devindra-hardawar
+2021-04-27T20:49:21Z <https://www.engadget.com/about/editors/devindra-hardawar>
 
 ![News Image](https://s.yimg.com/os/creatr-images/2018-11/d2f6e3c0-f4df-11e8-977f-81df77571883)
 

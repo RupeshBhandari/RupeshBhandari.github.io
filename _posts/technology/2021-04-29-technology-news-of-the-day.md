@@ -1,14 +1,14 @@
 ---
 title: "Technology news of the day"
 author: "Rupesh Bhandari"
-date: "2021-04-29 10:28:35 +0545"
+date: "2021-04-29 10:37:15 +0545"
 categories: [News]
 Tags: [New York Times]
 ---
 
 ## Protect your home with a private security camera powered by blockchain technology
 
-2021-03-27T14:55:21Z https://www.engadget.com/about/editors/stack-commerce
+2021-03-27T14:55:21Z <https://www.engadget.com/about/editors/stack-commerce>
 
 ![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-03/18bab0e0-8d8f-11eb-ba7e-7c2ab69d7d33)
 
@@ -20,7 +20,7 @@ Ucam is a completely private security camera you can operate from your phone. Wi
     
 ## The new Apple TV 4K arrives with HDMI 2.1, Thread wireless tech
 
-2021-04-21T03:36:04Z https://www.engadget.com/about/editors/igor-bonifacic
+2021-04-21T03:36:04Z <https://www.engadget.com/about/editors/igor-bonifacic>
 
 ![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-04/67ac3890-a252-11eb-bbad-185a09c4ac4e)
 
@@ -32,7 +32,7 @@ The new Apple TV has HDMI 2.1 and a new type of mesh networking technology built
     
 ## Watch NVIDIA's GTC 2021 keynote here at 11:30AM ET
 
-2021-04-12T14:55:37Z https://www.engadget.com/about/editors/jon-fingas
+2021-04-12T14:55:37Z <https://www.engadget.com/about/editors/jon-fingas>
 
 ![News Image](https://s.yimg.com/os/creatr-images/2020-02/2dfccad0-4eaa-11ea-8ed3-5d074159f850)
 
@@ -44,7 +44,7 @@ NVIDIA is holding its GTC keynote at 11:30AM ET, and it's poised to share news o
     
 ## Intel's Mobileye will power driverless 'last-mile' deliveries starting in 2023
 
-2021-04-12T14:04:43Z https://www.engadget.com/about/editors/nathan-ingraham
+2021-04-12T14:04:43Z <https://www.engadget.com/about/editors/nathan-ingraham>
 
 ![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-04/e6975850-9b96-11eb-b977-486dc1b05e42)
 
@@ -215,7 +215,7 @@ Growing up in the ‘90s, communicating with my…
     
 ## US blacklists Chinese supercomputer organizations over military support
 
-2021-04-08T15:39:29Z https://www.engadget.com/about/editors/jon-fingas
+2021-04-08T15:39:29Z <https://www.engadget.com/about/editors/jon-fingas>
 
 ![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-04/3f3e89e0-9879-11eb-9df7-7b371bdbc553)
 

@@ -1,7 +1,7 @@
 ---
 title: "Travel news of the day"
 author: "Rupesh Bhandari"
-date: "2021-04-29 10:28:35 +0545"
+date: "2021-04-29 10:37:15 +0545"
 categories: [News]
 Tags: [Lifehacker.com]
 ---
@@ -68,7 +68,7 @@ Games like 'Animal Crossing' and 'Cozy Grove' are meant to be played every day, 
     
 ## Apple Maps adds information on COVID-19 measures at airports
 
-2021-03-31T02:08:03Z https://www.engadget.com/about/editors/igor-bonifacic
+2021-03-31T02:08:03Z <https://www.engadget.com/about/editors/igor-bonifacic>
 
 ![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-03/74ec7650-91a4-11eb-afbe-d7f1e74391f0)
 
@@ -128,7 +128,7 @@ Google Earth unveiled a new feature, Timelapse, that lets you see how much human
     
 ## Australia opens travel bubble with New Zealand
 
-2021-04-19T00:11:10Z https://www.facebook.com/bbcnews
+2021-04-19T00:11:10Z <https://www.facebook.com/bbcnews>
 
 ![News Image](https://ichef.bbci.co.uk/news/1024/branded_news/1126A/production/_118105207_syd1.jpg)
 
@@ -140,7 +140,7 @@ The world's first major travel bubble set up in the Covid pandemic allows quaran
     
 ## A few frequent flyers 'dominate air travel'
 
-2021-03-30T23:46:49Z https://www.facebook.com/bbcnews
+2021-03-30T23:46:49Z <https://www.facebook.com/bbcnews>
 
 ![News Image](https://ichef.bbci.co.uk/news/1024/branded_news/17724/production/_117763069_065682729.jpg)
 
@@ -200,7 +200,7 @@ French startup BlaBlaCar has raised a new $115 million funding round (€97 mill
     
 ## Australia and New Zealand to start quarantine-free travel
 
-2021-04-06T04:48:13Z https://www.facebook.com/bbcnews
+2021-04-06T04:48:13Z <https://www.facebook.com/bbcnews>
 
 ![News Image](https://ichef.bbci.co.uk/news/1024/branded_news/12E70/production/_117742477_lockdown.png)
 

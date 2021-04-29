@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin news of the day"
 author: "Rupesh Bhandari"
-date: "2021-04-29 10:28:35 +0545"
+date: "2021-04-29 10:37:15 +0545"
 categories: [News]
 Tags: [Lifehacker.com]
 ---
@@ -68,7 +68,7 @@ National Burrito Day lands on April Fool’s Day this year, but thankfully resta
     
 ## Tesla: Bitcoin sales, environmental credits boost profits
 
-2021-04-27T04:22:49Z https://www.facebook.com/bbcnews
+2021-04-27T04:22:49Z <https://www.facebook.com/bbcnews>
 
 ![News Image](https://ichef.bbci.co.uk/news/1024/branded_news/13E5E/production/_118220518_gettyimages-1228322928.jpg)
 
@@ -192,7 +192,7 @@ MicroStrategy Inc, a major bitcoin corporate backer, said on Monday its non-empl
     
 ## Funko will combine its collectible figures with NFTs
 
-2021-04-01T13:08:32Z https://www.engadget.com/about/editors/jon-fingas
+2021-04-01T13:08:32Z <https://www.engadget.com/about/editors/jon-fingas>
 
 ![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-04/61033110-92e4-11eb-bfff-afc6a98837ec)
 
