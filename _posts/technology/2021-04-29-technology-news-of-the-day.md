@@ -1,3 +1,10 @@
+---
+title: "Technology news of the day"
+author: "Rupesh Bhandari"
+date: "2021-04-29 10:14:18 +0545"
+categories: [News]
+Tags: [New York Times]
+---
 
 ## Protect your home with a private security camera powered by blockchain technology
 

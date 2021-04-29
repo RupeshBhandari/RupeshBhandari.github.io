@@ -1,3 +1,10 @@
+---
+title: "Nepal news of the day"
+author: "Rupesh Bhandari"
+date: "2021-04-29 10:14:18 +0545"
+categories: [News]
+Tags: [BBC News]
+---
 
 ## Apple's repair store verification program is rolling out worldwide
 
