@@ -1,7 +1,7 @@
 ---
 title: "Travel news of the day"
 author: "Rupesh Bhandari"
-date: "2021-04-29 09:57:42 +0545"
+date: "2021-04-29 10:09:19 +0545"
 categories: [News]
 Tags: [Lifehacker.com]
 ---
