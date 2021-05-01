@@ -1,0 +1,239 @@
+---
+title: "Fed news of the day"
+author: "Rupesh Bhandari"
+date: "2021-05-01 10:07:45 +0545"
+categories: [News]
+Tags: [new york times, fed]
+---
+
+## 10 Things I Wish I Had Known Before Becoming a Parent
+
+2021-04-26T15:00:00Z Melanie Pinola
+
+![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/kyh1fzwp638tpvd9acoq.jpg)
+
+Raising a child is full of surprises. No matter how many books, parenting forums, and articles you read, the truth is that nothing can completely prepare you for it. After become a parent, though, I now have the gift of hindsight, so here’s what I would say i…
+
+[Read More](https://lifehacker.com/10-things-i-wish-i-had-known-before-becoming-a-parent-5989419)
+
+---
+    
+## Big Oil Fed State Educators Stats Used to Push Back on Biden’s Climate Goals
+
+2021-04-10T14:00:00Z Molly Taft on Earther, shared by Jody Serrano to Gizmodo
+
+![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ai6vslcnxh9igwbm4sjn.jpg)
+
+For years, Big Oil has cozied up to American public schools—and now they seem to be cashing in their chips. New emails appear to show that some elected officials in charge of public schools may have been helped in attacking the Biden administration’s recent d…
+
+[Read More](https://earther.gizmodo.com/big-oil-fed-state-educators-stats-used-to-push-back-on-1846654051)
+
+---
+    
+## Futures struggle for direction ahead of Fed minutes - Reuters
+
+2021-04-07T11:20:23Z None
+
+![News Image](None)
+
+Futures struggle for direction ahead of Fed minutes  Reuters
+
+[Read More](https://www.reuters.com/article/us-usa-stocks-idUSKBN2BU1IV)
+
+---
+    
+## Head of Capitol security task force says Trump fed insurrectionists 'a little BS'
+
+2021-04-06T22:38:50Z Zachary Cohen, CNN
+
+![News Image](https://cdn.cnn.com/cnnnext/dam/assets/210405114655-honore-sot-vpx-super-tease.jpg)
+
+Retired Lt. Gen. Russel Honoré, who led a review of security failures around the January 6 insurrection, said Tuesday that the US Capitol attack was fueled by a "information operation" led by former President Donald Trump that involved feeding Americans "a li…
+
+[Read More](https://www.cnn.com/2021/04/06/politics/honore-trump-propoganda-us-capitol-attack/index.html)
+
+---
+    
+## FOREX-Dollar retreats as profit-taking, falling yields hurt - Reuters
+
+2021-04-06T19:47:00Z Saqib Iqbal Ahmed, Saikat Chatterjee
+
+![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
+
+* U.S. yields slide as Fed rate hike pricing deemed too aggressive (Updates to U.S. afternoon)
+
+[Read More](https://www.reuters.com/article/global-forex-idUSL1N2LZ22A)
+
+---
+    
+## Euro zone bond selloff pauses as Fed plays down taper talk - Reuters
+
+2021-04-29T07:33:00Z Abhinav Ramnarayan
+
+![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
+
+Euro zone bond selloff pauses as Fed plays down taper talk  Reuters
+
+[Read More](https://www.reuters.com/article/eurozone-bonds-idUSL8N2MM2XW)
+
+---
+    
+## IMF offers rosier view on Asia, warns of Fed fallout on markets - Reuters
+
+2021-04-13T13:00:00Z Leika Kihara
+
+![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
+
+IMF offers rosier view on Asia, warns of Fed fallout on markets  Reuters
+
+[Read More](https://www.reuters.com/article/imf-world-bank-asia-idUSL4N2M60K9)
+
+---
+    
+## BRIEF-Fed Chair Powell's key comments at April 28 press conference - Reuters
+
+2021-04-28T20:34:00Z Reuters Staff
+
+![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
+
+BRIEF-Fed Chair Powell's key comments at April 28 press conference  Reuters
+
+[Read More](https://www.reuters.com/article/brief-fed-chair-powells-key-comments-at-idUSS0N2JQ02Q)
+
+---
+    
+## S.Korea stocks end lower on foreign outflows; focus on U.S. tech earnings, Fed meeting - Reuters
+
+2021-04-27T07:02:00Z Reuters Staff
+
+![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
+
+S.Korea stocks end lower on foreign outflows; focus on U.S. tech earnings, Fed meeting  Reuters
+
+[Read More](https://www.reuters.com/article/southkorea-markets-close-idUSAZN21YC00)
+
+---
+    
+## FOREX-Dollar trades near 9-week low post Fed, U.S. GDP eyed - Reuters
+
+2021-04-29T11:52:00Z Ritvik Carvalho
+
+![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
+
+FOREX-Dollar trades near 9-week low post Fed, U.S. GDP eyed  Reuters
+
+[Read More](https://www.reuters.com/article/global-forex-idUSL1N2MM12A)
+
+---
+    
+## TREASURIES OUTLOOK-U.S. yields fall after Fed Chair Powell's dovish comments, jobless claims - Reuters
+
+2021-04-08T19:44:00Z Gertrude Chavez-Dreyfuss
+
+![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
+
+TREASURIES OUTLOOK-U.S. yields fall after Fed Chair Powell's dovish comments, jobless claims  Reuters
+
+[Read More](https://www.reuters.com/article/usa-bonds-idUSL1N2M12JK)
+
+---
+    
+## GLOBAL MARKETS-High-flying stocks wait on Fed signals, Apple results - Reuters
+
+2021-04-28T11:46:00Z Marc Jones
+
+![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
+
+GLOBAL MARKETS-High-flying stocks wait on Fed signals, Apple results  Reuters
+
+[Read More](https://www.reuters.com/article/global-markets-idUSL1N2ML156)
+
+---
+    
+## Dollar drifts higher before Fed decision - Reuters
+
+2021-04-28T11:29:00Z Saikat Chatterjee
+
+![News Image](None)
+
+The U.S. dollar drifted higher on Wednesday as investors moved to the sidelines ahead of a U.S. Federal Reserve policy statement and a speech by Joe Biden later in the day where the U.S. president is set to announce more stimulus plans.
+
+[Read More](https://www.reuters.com/world/middle-east/dollar-drifts-higher-before-fed-decision-2021-04-28/)
+
+---
+    
+## FOREX-Dollar holds weak bias on expectations Powell will shun tapering - Reuters
+
+2021-04-26T00:55:00Z Stanley White
+
+![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
+
+* Graphic: World FX rates https://tmsnrt.rs/2RBWI5E * Focus is on Fed meeting ending Wednesday * Treasury yields and dollar likely to fall on Fed stance * Euro bid on improving economic data * Turkish lira at risk of testing all-time low By Stanley White TOKY…
+
+[Read More](https://www.reuters.com/article/global-forex-idUSL4N2MI0KF)
+
+---
+    
+## PRECIOUS-Inflation worries keep gold steady after Fed maintains stance - Reuters
+
+2021-04-08T05:19:00Z Diptendu Lahiri
+
+![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
+
+* Fed committed to support economy until recovery is more secure * Investors expect Fed to raise rates by January 2022 - analyst * SPDR Gold holdings slip on Wednesday (Adds comments; updates prices) By Diptendu Lahiri April 8 (Reuters) - Gold prices steadied…
+
+[Read More](https://www.reuters.com/article/global-precious-idUSL1N2M105X)
+
+---
+    
+## Fed saw 'some time' before taper conditions met, minutes show - BNN
+
+2021-04-07T18:15:18Z Bloomberg News
+
+![News Image](http://www.bnnbloomberg.ca/polopoly_fs/1.1587339!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/the-marriner-s-eccles-federal-reserve-building-in-washington-d-c-u-s-on-friday-feb-19-2021-federal-reserve-officials-in-january-expected-it-would-be-some-time-before-conditions-to-scale-back-their-massive-bond-purchases-were-met-leaving-open-the-question-of-whether-any-tapering-could-start-before-2022.jpg)
+
+<ol><li>Fed saw 'some time' before taper conditions met, minutes show  BNN
+</li><li>While Fed up waiting, markets lose faith in own bets  The Globe and Mail
+</li><li>Stocks Rise After Fed Minutes as Volume Dwindles: Markets Wrap  Yahoo Canada Finance
+</li>…
+
+[Read More](http://www.bnnbloomberg.ca/fed-saw-some-time-before-taper-conditions-met-minutes-show-1.1587338)
+
+---
+    
+## As temperatures rise, tigers get chicken ice pops at Thai zoo - Reuters
+
+2021-04-01T10:34:00Z Vorasit Satienlerk
+
+![News Image](https://static.reuters.com/resources/r/?m=02&d=20210401&t=2&i=1557014642&r=LYNXMPEH302NV&w=800)
+
+Tigers were fed frozen chicken 'popsicles' and enticed to splash in a wading pool at a Thai zoo on Thursday as temperatures rose.
+
+[Read More](https://www.reuters.com/article/us-thailand-weather-tigers-idUSKBN2BO53K)
+
+---
+    
+## Bullard: Fed's next steps waiting on whether pandemic 'war' really has been won - Reuters Africa
+
+2021-04-08T16:01:00Z Reuters Staff
+
+![News Image](https://static.reuters.com/resources/r/?m=02&d=20210408&t=2&i=1557740419&r=LYNXMPEH3715D&w=800)
+
+The U.S. Federal Reserve shouldn't ease up on supporting the economy until the coronavirus is clearly defeated, St. Louis Fed president James Bullard said.
+
+[Read More](https://www.reuters.com/article/us-usa-fed-bullard-idUSKBN2BV2FE)
+
+---
+    
+## Fed's Clarida: If inflation expectations 'drift up persistently,' Fed would need to respond - Reuters
+
+2021-04-14T20:51:00Z Reuters Staff
+
+![News Image](https://static.reuters.com/resources/r/?m=02&d=20210414&t=2&i=1558481917&r=LYNXMPEH3D1ES&w=800)
+
+The Federal Reserve's "metric of success" on inflation is keeping expectations about future price increases anchored at 2%, Fed Vice Chair Richard Clarida said on Wednesday.
+
+[Read More](https://www.reuters.com/article/us-usa-fed-clarida-idUSKBN2C12VB)
+
+---
+    
