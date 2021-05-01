@@ -3,7 +3,7 @@ title:  "What is VPCS? How to set it up in GNS3?"
 author: Rupesh Bhandari
 date:   2021-04-14 22:10:00 +0545
 categories: [Networking, CCNA] 
-Tags: [GNS3, Packet Tracer] 
+Tags: [gns3, packet tracer] 
 ---
 
 Virtual PC Simulator is a program written by Paul Meng, which allows you to simulate a lightweight PC supporting DHCP and ping. It consumes only 2MB of RAM per instance, and does not require an additional image.
