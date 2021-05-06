@@ -1,7 +1,7 @@
 ---
 title: "Who news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-06 09:40:08 +0545"
+date: "2021-05-06 09:45:58 +0545"
 categories: [News]
 Tags: [lifehacker.com, who]
 ---

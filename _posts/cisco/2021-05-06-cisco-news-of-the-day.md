@@ -1,7 +1,7 @@
 ---
 title: "Cisco news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-06 09:40:08 +0545"
+date: "2021-05-06 09:45:58 +0545"
 categories: [News]
 Tags: [the next web, cisco]
 ---
@@ -80,18 +80,6 @@ Los expertos en ciberseguridad de Cisco Talos han descubierto dos vu…
 
 ---
     
-## Zoom launches $100 million fund to invest in apps using its technology - Reuters.com
-
-2021-04-19T14:04:00Z Reuters Staff
-
-![News Image](https://static.reuters.com/resources/r/?m=02&d=20210419&t=2&i=1559072223&r=LYNXMPEH3I0X0&w=800)
-
-Zoom Video Communications Inc on Monday said it has created a $100 million fund to invest in startup software companies that build apps using its technology.
-
-[Read More](https://www.reuters.com/article/us-zoom-video-commn-tech-idUSKBN2C61NU)
-
----
-    
 ## Zoom launches $100 mln fund to invest in apps using its technology - Reuters
 
 2021-04-19T14:10:00Z Reuters
@@ -101,6 +89,18 @@ Zoom Video Communications Inc on Monday said it has created a $100 million fund 
 Zoom Video Communications Inc (ZM.O) on Monday said it has created a $100 million fund to invest in startup software companies that build apps using its technology.
 
 [Read More](https://www.reuters.com/technology/zoom-launches-100-mln-fund-invest-apps-using-its-technology-2021-04-19/)
+
+---
+    
+## Zoom launches $100 million fund to invest in apps using its technology - Reuters.com
+
+2021-04-19T14:04:00Z Reuters Staff
+
+![News Image](https://static.reuters.com/resources/r/?m=02&d=20210419&t=2&i=1559072223&r=LYNXMPEH3I0X0&w=800)
+
+Zoom Video Communications Inc on Monday said it has created a $100 million fund to invest in startup software companies that build apps using its technology.
+
+[Read More](https://www.reuters.com/article/us-zoom-video-commn-tech-idUSKBN2C61NU)
 
 ---
     

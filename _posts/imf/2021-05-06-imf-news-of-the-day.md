@@ -1,7 +1,7 @@
 ---
 title: "Imf news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-06 09:40:08 +0545"
+date: "2021-05-06 09:45:58 +0545"
 categories: [News]
 Tags: [reuters, imf]
 ---
@@ -128,18 +128,6 @@ There is still a lot of uncertainty about Argentina's economic policy path to ma
 
 ---
     
-## IMF calls for 'strong' fiscal consolidation in Kuwait - Reuters
-
-2021-04-15T12:21:00Z Reuters Staff
-
-![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
-
-The International Monetary Fund said on Thursday Kuwait would need strong fiscal consolidation to support growth after its finances were battered last year.
-
-[Read More](https://www.reuters.com/article/imf-kuwait-int-idUSKBN2C21ML)
-
----
-    
 ## IMF says Japan's economy can weather Olympics cancellation - Reuters UK
 
 2021-04-13T14:00:00Z Leika Kihara
@@ -149,6 +137,18 @@ The International Monetary Fund said on Thursday Kuwait would need strong fiscal
 Cancelling or postponing the Tokyo Olympics Games probably will not hurt Japan's economy much, but may require the government to offer targeted support for hard-hit small firms, a senior official of the International Monetary Fund said.
 
 [Read More](https://www.reuters.com/article/us-imf-worldbank-japan-idUSKBN2C01VI)
+
+---
+    
+## IMF calls for 'strong' fiscal consolidation in Kuwait - Reuters
+
+2021-04-15T12:21:00Z Reuters Staff
+
+![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
+
+The International Monetary Fund said on Thursday Kuwait would need strong fiscal consolidation to support growth after its finances were battered last year.
+
+[Read More](https://www.reuters.com/article/imf-kuwait-int-idUSKBN2C21ML)
 
 ---
     

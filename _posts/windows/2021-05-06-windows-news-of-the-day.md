@@ -1,7 +1,7 @@
 ---
 title: "Windows news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-06 09:40:08 +0545"
+date: "2021-05-06 09:45:58 +0545"
 categories: [News]
 Tags: [lifehacker.com, windows]
 ---
@@ -116,18 +116,6 @@ It's likely to have a major redesign and several developer-friendly features.
 
 ---
     
-## Seamlessly use Windows programs on your Mac with CrossOver
-
-2021-04-19T14:55:40Z <https://www.engadget.com/about/editors/stack-commerce>
-
-![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-04/59a33010-9e19-11eb-9bdd-e0a97cbddf7c)
-
-With a CrossOver for Mac License, you can install and use Windows programs on your Mac computer as if they were native macOS apps.
-
-[Read More](https://www.engadget.com/crossover-for-mac-145540658.html)
-
----
-    
 ## Microsoft: Timeline is staying in Windows 10, but without syncing
 
 2021-04-15T01:04:18Z <https://www.engadget.com/about/editors/richard-lawler>
@@ -137,6 +125,18 @@ With a CrossOver for Mac License, you can install and use Windows programs on yo
 Timeline was the "star" of Microsoft's big 2018 update for Windows 10 and while it will still remember everything you did, it just won't save that information to the cloud anymore.
 
 [Read More](https://www.engadget.com/windows-10-timeline-beta-010418271.html)
+
+---
+    
+## Seamlessly use Windows programs on your Mac with CrossOver
+
+2021-04-19T14:55:40Z <https://www.engadget.com/about/editors/stack-commerce>
+
+![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-04/59a33010-9e19-11eb-9bdd-e0a97cbddf7c)
+
+With a CrossOver for Mac License, you can install and use Windows programs on your Mac computer as if they were native macOS apps.
+
+[Read More](https://www.engadget.com/crossover-for-mac-145540658.html)
 
 ---
     

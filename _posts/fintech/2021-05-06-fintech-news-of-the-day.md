@@ -1,7 +1,7 @@
 ---
 title: "Fintech news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-06 09:40:08 +0545"
+date: "2021-05-06 09:45:58 +0545"
 categories: [News]
 Tags: [techcrunch, fintech]
 ---
@@ -186,18 +186,6 @@ Brazilian financial startup PicPay has filed with the U.S. Securities and Exchan
 
 ---
     
-## Fintech Revolut to hire 300 for India support hub - Reuters
-
-2021-04-21T23:01:00Z Lawrence White
-
-![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
-
-Revolut will hire 300 staff for its subsidiary in India and make a multi-million pound investment there as part of its global expansion, the British-based digital bank app said on Thursday.
-
-[Read More](https://www.reuters.com/article/revolut-india-idUSL4N2ME2M9)
-
----
-    
 ## O’Melveny boosts Fintech practice with ex-CFPB attorney - Reuters
 
 2021-04-15T23:37:00Z Jody Godoy
@@ -207,6 +195,18 @@ Revolut will hire 300 staff for its subsidiary in India and make a multi-million
 O'Melveny & Myers has added an attorney who helped set the fintech enforcement agenda at the U.S. Consumer Financial Protection Bureau as counsel in its Washington, D.C. office.
 
 [Read More](https://www.reuters.com/article/banking-omm-cfpb-idUSL1N2M83CK)
+
+---
+    
+## Fintech Revolut to hire 300 for India support hub - Reuters
+
+2021-04-21T23:01:00Z Lawrence White
+
+![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
+
+Revolut will hire 300 staff for its subsidiary in India and make a multi-million pound investment there as part of its global expansion, the British-based digital bank app said on Thursday.
+
+[Read More](https://www.reuters.com/article/revolut-india-idUSL4N2ME2M9)
 
 ---
     

@@ -1,7 +1,7 @@
 ---
 title: "India news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-06 09:40:08 +0545"
+date: "2021-05-06 09:45:58 +0545"
 categories: [News]
 Tags: [engadget, india]
 ---
@@ -198,18 +198,6 @@ The US has issued a "do not travel" advisory as India battles a devastating coro
 
 ---
     
-## Australians stuck overseas 'abandoned' by their own country
-
-2021-04-29T22:58:25Z <https://www.facebook.com/bbcnews>
-
-![News Image](https://ichef.bbci.co.uk/news/1024/branded_news/E99D/production/_118250895_mandeepsharma.png)
-
-Australians in India are the latest group to feel abandoned by their government amid virus fears.
-
-[Read More](https://www.bbc.co.uk/news/world-australia-56924188)
-
----
-    
 ## Covid: Australians could face jail or fines if they return from India
 
 2021-05-01T01:11:50Z <https://www.facebook.com/bbcnews>
@@ -219,6 +207,18 @@ Australians in India are the latest group to feel abandoned by their government 
 Australia makes it temporarily illegal to return from India, which is being ravaged by Covid-19.
 
 [Read More](https://www.bbc.co.uk/news/world-australia-56953052)
+
+---
+    
+## Australians stuck overseas 'abandoned' by their own country
+
+2021-04-29T22:58:25Z <https://www.facebook.com/bbcnews>
+
+![News Image](https://ichef.bbci.co.uk/news/1024/branded_news/E99D/production/_118250895_mandeepsharma.png)
+
+Australians in India are the latest group to feel abandoned by their government amid virus fears.
+
+[Read More](https://www.bbc.co.uk/news/world-australia-56924188)
 
 ---
     

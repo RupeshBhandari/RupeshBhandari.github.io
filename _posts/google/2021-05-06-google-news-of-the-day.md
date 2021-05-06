@@ -1,23 +1,11 @@
 ---
 title: "Google news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-06 09:40:08 +0545"
+date: "2021-05-06 09:45:58 +0545"
 categories: [News]
 Tags: [lifehacker.com, google]
 ---
 
-## How to Get Notified of Price Drops on Google Android
-
-2021-04-26T15:30:00Z Brendan Hesse
-
-![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ne3lnxx0x0lymo1knurc.jpg)
-
-Chrome desktop users have long been able to outfit the browser with third-party extensions that track prices and help you find the best deals, but those add-ons don’t work on Android. Luckily, Google is rolling out a new feature in Chrome mobile that will kee…
-
-[Read More](https://lifehacker.com/how-to-get-notified-of-price-drops-on-google-android-1846750253)
-
----
-    
 ## How to Test Drive Google Chrome's New 'Memories' Page
 
 2021-04-20T15:30:00Z Brendan Hesse
@@ -27,6 +15,18 @@ Chrome desktop users have long been able to outfit the browser with third-party 
 Google is testing a new “Memories” feature for Google Chrome that collects your browsing history, bookmarks, and other web activity onto a single, searchable page that will help you dig through your browser activity more easily.Read more...
 
 [Read More](https://lifehacker.com/how-to-test-drive-google-chromes-new-memories-page-1846716365)
+
+---
+    
+## How to Get Notified of Price Drops on Google Android
+
+2021-04-26T15:30:00Z Brendan Hesse
+
+![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ne3lnxx0x0lymo1knurc.jpg)
+
+Chrome desktop users have long been able to outfit the browser with third-party extensions that track prices and help you find the best deals, but those add-ons don’t work on Android. Luckily, Google is rolling out a new feature in Chrome mobile that will kee…
+
+[Read More](https://lifehacker.com/how-to-get-notified-of-price-drops-on-google-android-1846750253)
 
 ---
     
@@ -66,18 +66,6 @@ If you live in a house with divided geek loyalties, your competing devices are a
 
 ---
     
-## Speed Up Your Google Search With This New Keyboard Shortcut
-
-2021-04-16T17:00:00Z David Murphy
-
-![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/o9omjbykaf0uzoizconq.jpg)
-
-Google just dropped a great new keyboard shortcut that you can use to refine your search queries, and while it’s not going to save you a week’s worth of time, it’s easier to use than scrolling back up to the search bar, clicking it, and editing your query to …
-
-[Read More](https://lifehacker.com/speed-up-your-google-search-with-this-new-keyboard-shor-1846698271)
-
----
-    
 ## How to Edit Videos in Android's Google Photos App
 
 2021-04-13T21:00:00Z Brendan Hesse
@@ -99,6 +87,18 @@ Android users can finally access Google Photos’ upgraded video editor and its 
 To celebrate the launch of Google Pay’s new GPay app, Google is holding a “Spring Challenge” during which users have a chance to win $30. The event is live now and runs through April 22—though there are only 200,000 gifts available, meaning those $30 gifts co…
 
 [Read More](https://lifehacker.com/how-to-earn-30-in-google-pays-spring-challenge-event-1846675023)
+
+---
+    
+## Speed Up Your Google Search With This New Keyboard Shortcut
+
+2021-04-16T17:00:00Z David Murphy
+
+![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/o9omjbykaf0uzoizconq.jpg)
+
+Google just dropped a great new keyboard shortcut that you can use to refine your search queries, and while it’s not going to save you a week’s worth of time, it’s easier to use than scrolling back up to the search bar, clicking it, and editing your query to …
+
+[Read More](https://lifehacker.com/speed-up-your-google-search-with-this-new-keyboard-shor-1846698271)
 
 ---
     

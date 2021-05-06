@@ -1,7 +1,7 @@
 ---
 title: "Oppo news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-06 09:40:08 +0545"
+date: "2021-05-06 09:45:58 +0545"
 categories: [News]
 Tags: [techcrunch, oppo]
 ---
@@ -243,25 +243,6 @@ Pudimos reunir ocho de los smartphones más potentes a nivel fotográfico y los 
 
 ---
     
-## Mobvoi launches TicWatch GTH with skin temperature sensor, 10-day battery
-
-2021-04-13T14:00:03Z Derrek Lee
-
-![News Image](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/04/mobvoi-ticwatch-gth.jpg)
-
-The TicWatch GHT can tell you how hot you are.
-
-What you need to know
-
-
-Mobvoi announced the global launch of its TicWatch GHT.
-The smartwatch features an Apple Watch-like square design and a 10-day battery life.
-The TicWatch GHT will be available starting to…
-
-[Read More](https://www.androidcentral.com/mobvoi-ticwatch-gth-global-launch)
-
----
-    
 ## Global smartphone sales jumped 24% in Q1 2021, led by affordable 5G phones
 
 2021-04-20T15:44:23Z Babu Mohan
@@ -279,6 +260,25 @@ Global smartphone shipments increased 24% YoY in the first quarter of 2021.
 Samsung was the biggest smartphone ve…
 
 [Read More](https://www.androidcentral.com/global-smartphone-sales-jumped-24-q1-2021-led-affordable-5g-phones)
+
+---
+    
+## Mobvoi launches TicWatch GTH with skin temperature sensor, 10-day battery
+
+2021-04-13T14:00:03Z Derrek Lee
+
+![News Image](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/04/mobvoi-ticwatch-gth.jpg)
+
+The TicWatch GHT can tell you how hot you are.
+
+What you need to know
+
+
+Mobvoi announced the global launch of its TicWatch GHT.
+The smartwatch features an Apple Watch-like square design and a 10-day battery life.
+The TicWatch GHT will be available starting to…
+
+[Read More](https://www.androidcentral.com/mobvoi-ticwatch-gth-global-launch)
 
 ---
     
