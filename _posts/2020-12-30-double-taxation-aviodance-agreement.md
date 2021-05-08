@@ -30,8 +30,6 @@ Table of Contents
 
 ## SAARC Multilateral Agreement on Avoidance of Double Taxation and Mutual Administrative Assistance in Tax Matters
 
-### PREAMBLE
-
 The Governments of the SAARC (South Asian Association for Regional Cooperation) Member States comprising the People’s Republic of Bangladesh, the Kingdom of Bhutan, the Republic of India, the Republic of Maldives, the State of Nepal, the Islamic Republic of Pakistan and the Democratic Socialist Republic of Sri Lanka;
 
 **Desiring** to conclude an Agreement on Avoidance of Double Taxation and Mutual
