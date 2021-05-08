@@ -1,9 +1,9 @@
 ---
 title: "Politics news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [new york times, politics]
+tags: [new york times, politics]
 ---
 
 ## Could ‘Young Rock’ Be Dwayne Johnson’s ‘Apprentice’?

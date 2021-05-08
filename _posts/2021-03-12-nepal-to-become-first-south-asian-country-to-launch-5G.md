@@ -3,7 +3,7 @@ title:  "Nepal to Become First South-Asian Country to Launch 5G"
 author: Rupesh Bhandari
 date:   2021-03-12 18:10:00 +0545
 categories: [Technology] 
-Tags: [5G, NTC, NCELL] 
+tags: [5G, NTC, NCELL] 
 ---
 
 Nepal is all set to become the first country in South Asia to roll out 5G services. It plans to roll out 5G by mid-July of this year. Whereas in India, the telcos haven’t been able to even test the next-generation connectivity properly. Kathmandu, along with three other major cities of Nepal, will have 5G connectivity by the end of this fiscal year. According to a report from The Kathmandu Post, a proposal for issuing a separate frequency for 5G operations was submitted on February 1, 2021, to the National Frequency Determining Committee under the Ministry of Information, Communication and Technology.

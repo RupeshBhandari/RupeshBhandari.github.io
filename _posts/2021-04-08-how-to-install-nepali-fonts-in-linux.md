@@ -3,7 +3,7 @@ title:  "How to install Nepali Fonts in Linux?"
 author: Rupesh Bhandari
 date:   2021-04-08 23:10:00 +0545
 categories: [Linux] 
-Tags: [Kali Linux, Ubuntu] 
+tags: [Kali Linux, ubuntu] 
 ---
 
 ![Nepali Font on Linux](/assets/img/linux/nepali-font-linux.png)

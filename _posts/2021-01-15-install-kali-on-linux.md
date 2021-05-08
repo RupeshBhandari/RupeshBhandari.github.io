@@ -3,7 +3,7 @@ title:  "Step by step guide – How to install Kali Linux on VMware"
 author: Rupesh Bhandari
 date:   2021-01-15 16:15:00 +0545
 categories: [Linux, Kali, Vmware, TUTORIAL] 
-Tags: [Kali Linux, VMWARE] 
+tags: [Kali Linux, VMWARE] 
 ---
 
 <!-- Bla bla <sup id="a1">[1](#f1)</sup> -->

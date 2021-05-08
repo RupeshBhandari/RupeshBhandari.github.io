@@ -3,7 +3,7 @@ title:  "Protecting the Amazon could get her killed!"
 author: Rupesh Bhandari
 date:   2021-03-08 20:10:00 +0545
 categories: [Human Rights] 
-Tags: [Human Rights] 
+tags: [Human Rights] 
 ---
 
 ![Jani Silva](/assets/img/humanrights/jani_silva.jpg)

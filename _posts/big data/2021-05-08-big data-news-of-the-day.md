@@ -1,9 +1,9 @@
 ---
 title: "Big data news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [techcrunch, big data]
+tags: [techcrunch, big data]
 ---
 
 ## Data was the new oil, until the oil caught fire

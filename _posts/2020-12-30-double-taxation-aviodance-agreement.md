@@ -3,7 +3,7 @@ title:  "DOUBLE TAXATION AVIODANCE AGREEMENT"
 author: Rupesh Bhandari
 date:   2020-12-30 20:10:00 +0545
 categories: [Books] 
-Tags: [Taxation] 
+tags: [Taxation] 
 ---
 
 Table of Contents

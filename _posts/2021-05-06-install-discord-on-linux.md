@@ -3,7 +3,7 @@ title:  "Install Discord on Linux"
 author: Rupesh Bhandari
 date:   2021-05-06 02:31:00 +0545
 categories: [Social Media]
-Tags: [discord]
+tags: [discord]
 ---
 
 When you divide gaming into two eras, then you get gaming before the advent of Discord and after the advent of Discord. It has changed how gamers used to communicate during a game. It’s not that there was no messaging app earlier, but Discord made it extremely easy to create communities and upgraded team communication very quickly.

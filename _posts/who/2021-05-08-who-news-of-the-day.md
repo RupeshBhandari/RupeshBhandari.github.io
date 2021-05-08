@@ -1,9 +1,9 @@
 ---
 title: "Who news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [lifehacker.com, who]
+tags: [lifehacker.com, who]
 ---
 
 ## How to Help a Child Who Is Grieving on Mother's Day
@@ -66,18 +66,6 @@ The green light is a guideline for national regulators that a vaccine is safe an
 
 ---
     
-## The Out-of-Touch Adults' Guide To Kid Culture: Joe Rogan Said What?
-
-2021-04-30T14:00:00Z Stephen Johnson
-
-![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bedf6e3e5d515f835b172a39d4184705.jpg)
-
-I got a grab bag of kid-internet for you this week, including a president who isn’t completely embarrassing, a podcaster who is, the most heartwarming kick-in-the-balls that has ever been recorded, and an epic Josh battle.Read more...
-
-[Read More](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-joe-rogan-1846795731)
-
----
-    
 ## How to Snag a Last-Minute Campsite Reservation This Summer
 
 2021-05-02T13:00:00Z Elizabeth Yuko
@@ -87,6 +75,18 @@ I got a grab bag of kid-internet for you this week, including a president who is
 While there have always been people who enjoy camping, the limited travel options during the COVID-19 pandemic had people sleeping under the stars (or in a tent) who wouldn’t have considered it previously. Though we’re several months into the vaccine rollout,…
 
 [Read More](https://lifehacker.com/how-to-snag-a-last-minute-campsite-reservation-this-sum-1846803046)
+
+---
+    
+## The Out-of-Touch Adults' Guide To Kid Culture: Joe Rogan Said What?
+
+2021-04-30T14:00:00Z Stephen Johnson
+
+![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bedf6e3e5d515f835b172a39d4184705.jpg)
+
+I got a grab bag of kid-internet for you this week, including a president who isn’t completely embarrassing, a podcaster who is, the most heartwarming kick-in-the-balls that has ever been recorded, and an epic Josh battle.Read more...
+
+[Read More](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-joe-rogan-1846795731)
 
 ---
     
@@ -114,18 +114,6 @@ In a market dominated by home cardio workout machines, Tonal concentrates on str
 
 ---
     
-## Facebook jumpstarts newsletter ambitions with $5 million for indie writers
-
-2021-04-29T18:32:49Z <https://www.engadget.com/about/editors/kris-holt>
-
-![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-03/8951bdd0-906e-11eb-93f3-f4595544e195)
-
-The company will prioritize reporters who plan to cover marginalized communities..
-
-[Read More](https://www.engadget.com/facebook-newsletters-local-journalists-writers-183249771.html)
-
----
-    
 ## 'Star Wars Jedi: Fallen Order' PS5 and Xbox Series X/S update arrives this summer
 
 2021-04-29T16:46:05Z <https://www.engadget.com/about/editors/kris-holt>
@@ -135,6 +123,18 @@ The company will prioritize reporters who plan to cover marginalized communities
 Folks who bought the PS4 or Xbox One version will get the upgrade for free..
 
 [Read More](https://www.engadget.com/star-wars-jedi-fallen-order-ps5-xbox-series-x-upgrade-164605451.html)
+
+---
+    
+## Facebook jumpstarts newsletter ambitions with $5 million for indie writers
+
+2021-04-29T18:32:49Z <https://www.engadget.com/about/editors/kris-holt>
+
+![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-03/8951bdd0-906e-11eb-93f3-f4595544e195)
+
+The company will prioritize reporters who plan to cover marginalized communities..
+
+[Read More](https://www.engadget.com/facebook-newsletters-local-journalists-writers-183249771.html)
 
 ---
     
@@ -174,30 +174,6 @@ Caterpillar, the same folks behind forklifts and the other big machines you have
 
 ---
     
-## Kim Potter, Minnesota Police Officer Who Shot Daunte Wright, Resigns
-
-2021-04-13T17:46:35Z Julie Bosman and Nicholas Bogel-Burroughs
-
-![News Image](https://static01.nyt.com/images/2021/04/13/multimedia/13chauvin-trial-blog-potter/13chauvin-trial-blog-potter-facebookJumbo.jpg)
-
-In a letter sent to city officials on Tuesday, Officer Kim Potter said she was resigning immediately, the union said.
-
-[Read More](https://www.nytimes.com/2021/04/13/us/kim-potter-daunte-wright-resigns.html)
-
----
-    
-## MoMA Blocks Protesters Who Planned to Demonstrate Inside
-
-2021-05-01T02:34:32Z Zachary Small
-
-![News Image](https://static01.nyt.com/images/2021/04/30/arts/30moma-item-2/30moma-item-2-facebookJumbo.jpg)
-
-The museum, citing safety concerns, closed its doors to the protesters who say MoMA caters too much to the interests of its wealthy donors.
-
-[Read More](https://www.nytimes.com/2021/04/30/arts/moma-blocks-protesters-who-planned-to-demonstrate-inside.html)
-
----
-    
 ## Tempest Storm, Who Disrobed to Enduring Acclaim, Dies at 93
 
 2021-04-21T20:04:42Z Margalit Fox
@@ -219,6 +195,30 @@ One of the most celebrated strippers of her time, she began her career in burles
 Azikiwe Mohammed celebrates everyday heroes and small acts of care in his installations.
 
 [Read More](https://www.nytimes.com/2021/04/20/arts/design/azikiwe-mohammed-yeh-art-gallery.html)
+
+---
+    
+## Kim Potter, Minnesota Police Officer Who Shot Daunte Wright, Resigns
+
+2021-04-13T17:46:35Z Julie Bosman and Nicholas Bogel-Burroughs
+
+![News Image](https://static01.nyt.com/images/2021/04/13/multimedia/13chauvin-trial-blog-potter/13chauvin-trial-blog-potter-facebookJumbo.jpg)
+
+In a letter sent to city officials on Tuesday, Officer Kim Potter said she was resigning immediately, the union said.
+
+[Read More](https://www.nytimes.com/2021/04/13/us/kim-potter-daunte-wright-resigns.html)
+
+---
+    
+## MoMA Blocks Protesters Who Planned to Demonstrate Inside
+
+2021-05-01T02:34:32Z Zachary Small
+
+![News Image](https://static01.nyt.com/images/2021/04/30/arts/30moma-item-2/30moma-item-2-facebookJumbo.jpg)
+
+The museum, citing safety concerns, closed its doors to the protesters who say MoMA caters too much to the interests of its wealthy donors.
+
+[Read More](https://www.nytimes.com/2021/04/30/arts/moma-blocks-protesters-who-planned-to-demonstrate-inside.html)
 
 ---
     

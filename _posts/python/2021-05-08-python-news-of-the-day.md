@@ -1,9 +1,9 @@
 ---
 title: "Python news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [engadget, python]
+tags: [engadget, python]
 ---
 
 ## Learn to code with this online Python bootcamp bundle
@@ -20,20 +20,6 @@ Interested in learning Python, the general-purpose language often used for data 
 
 ---
     
-## Pay what you want for this Python training bundle
-
-2021-04-24T09:00:00Z Jae Thomas
-
-![News Image](https://mondrian.mashable.com/2021%252F04%252F24%252F4b%252F381ff47d391946fe82b594e497798f37.0f82b.jpg%252F1200x630.jpg?signature=Ieb94CurD_amTL9bVwxKGDIiRyk=)
-
-TL;DR: As of April 24, pay what you wish for the Advanced Python Masterclass and Automation Training Bundle. Get all 13 courses if your price is higher than average, or take home a few of them if you want to pay less.
-
-Easy to read, write, and most importantl…
-
-[Read More](https://mashable.com/shopping/april-24-advanced-python-masterclass-and-automation-training-bundle/)
-
----
-    
 ## Pay what you want for this comprehensive Python training bundle
 
 2021-05-03T04:00:00Z Joseph Green
@@ -45,6 +31,20 @@ TL;DR: As of May 3, you can pay what you want for the Advanced Python Masterclas
 Easy to read, write, and most importantly, learn, Python is truly the ultimate beginner-friendly programming language. For those just dipping th…
 
 [Read More](https://mashable.com/uk/shopping/may-3-advanced-python-masterclass-and-automation-training-bundle/)
+
+---
+    
+## Pay what you want for this Python training bundle
+
+2021-04-24T09:00:00Z Jae Thomas
+
+![News Image](https://mondrian.mashable.com/2021%252F04%252F24%252F4b%252F381ff47d391946fe82b594e497798f37.0f82b.jpg%252F1200x630.jpg?signature=Ieb94CurD_amTL9bVwxKGDIiRyk=)
+
+TL;DR: As of April 24, pay what you wish for the Advanced Python Masterclass and Automation Training Bundle. Get all 13 courses if your price is higher than average, or take home a few of them if you want to pay less.
+
+Easy to read, write, and most importantl…
+
+[Read More](https://mashable.com/shopping/april-24-advanced-python-masterclass-and-automation-training-bundle/)
 
 ---
     

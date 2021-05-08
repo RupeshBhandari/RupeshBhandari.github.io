@@ -1,9 +1,9 @@
 ---
 title: "Travel news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [lifehacker.com, travel]
+tags: [lifehacker.com, travel]
 ---
 
 ## How to Get a 2-for-1 Deal on Amtrak Sleeper Fares

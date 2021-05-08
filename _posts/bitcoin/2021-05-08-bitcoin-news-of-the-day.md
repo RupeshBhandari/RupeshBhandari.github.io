@@ -1,9 +1,9 @@
 ---
 title: "Bitcoin news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [techcrunch, bitcoin]
+tags: [techcrunch, bitcoin]
 ---
 
 ## Tesla sees bitcoin as important financial tool to access cash quickly
@@ -30,18 +30,6 @@ Cryptocurrency continues to gain mainstream acceptance, as PayPal announced that
 
 ---
     
-## African crypto usage spurs Luno as customers reach 7M
-
-2021-04-13T08:30:21Z Tage Kene-Okafor
-
-![News Image](https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-887657568.jpg?w=600)
-
-The crypto industry as a whole has seen a momentous year of growth, heavily spurred on by the entrance of institutional investors adopting bitcoin due to its store of value properties. The 2020 spike bitcoin experienced was also accelerated by its global adop…
-
-[Read More](http://techcrunch.com/2021/04/13/african-crypto-usage-spurs-luno-as-customers-reach-7m/)
-
----
-    
 ## Crypto market takes a dive with Bitcoin leading the way
 
 2021-04-23T17:58:10Z Lucas Matney
@@ -51,6 +39,18 @@ The crypto industry as a whole has seen a momentous year of growth, heavily spur
 Cryptocurrency prices continued to tumble Friday with Bitcoin leading the charge, with prices for the internet currency dipping below $50,000 for the first time since early March. Bitcoin is down roughly 20% week-over-week, around 30% from its all-time-high o…
 
 [Read More](http://techcrunch.com/2021/04/23/crypto-market-takes-a-dive-with-bitcoin-leading-the-way/)
+
+---
+    
+## African crypto usage spurs Luno as customers reach 7M
+
+2021-04-13T08:30:21Z Tage Kene-Okafor
+
+![News Image](https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-887657568.jpg?w=600)
+
+The crypto industry as a whole has seen a momentous year of growth, heavily spurred on by the entrance of institutional investors adopting bitcoin due to its store of value properties. The 2020 spike bitcoin experienced was also accelerated by its global adop…
+
+[Read More](http://techcrunch.com/2021/04/13/african-crypto-usage-spurs-luno-as-customers-reach-7m/)
 
 ---
     

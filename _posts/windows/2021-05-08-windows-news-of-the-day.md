@@ -1,9 +1,9 @@
 ---
 title: "Windows news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [lifehacker.com, windows]
+tags: [lifehacker.com, windows]
 ---
 
 ## How to Clean the Outside of Your Apartment Windows, Because It's Gross Out There
@@ -66,18 +66,6 @@ You don’t need a fancy app to shut down your computer at a certain time in Win
 
 ---
     
-## Why Did My Wifi Disappear After a Windows Update?
-
-2021-05-07T13:00:00Z David Murphy
-
-![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/459c3cae40767bcff5ff296f1af78b27.jpg)
-
-I can’t resist a good wireless mystery, and this week’s question-writer for Lifehacker’s Tech 911 has a good one—an issue that you don’t even think about until it happens, and then it consumes your mind as you try every trick in the book to get your wifi back…
-
-[Read More](https://lifehacker.com/why-did-my-wifi-disappear-after-a-windows-update-1846838900)
-
----
-    
 ## This Fix Makes Multi-Display Setups Better on Windows 10
 
 2021-04-30T17:00:00Z Brendan Hesse
@@ -87,6 +75,18 @@ I can’t resist a good wireless mystery, and this week’s question-writer for 
 Having multiple displays is a great productivity boost when you’re streaming, editing, or trying to distract yourself with a show in the background while grinding away in your favorite online game. It’s too bad Windows 10 makes them a chore to use.Read more...
 
 [Read More](https://lifehacker.com/this-fix-makes-multi-display-setups-better-on-windows-1-1846791725)
+
+---
+    
+## Why Did My Wifi Disappear After a Windows Update?
+
+2021-05-07T13:00:00Z David Murphy
+
+![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/459c3cae40767bcff5ff296f1af78b27.jpg)
+
+I can’t resist a good wireless mystery, and this week’s question-writer for Lifehacker’s Tech 911 has a good one—an issue that you don’t even think about until it happens, and then it consumes your mind as you try every trick in the book to get your wifi back…
+
+[Read More](https://lifehacker.com/why-did-my-wifi-disappear-after-a-windows-update-1846838900)
 
 ---
     
@@ -128,18 +128,6 @@ It's likely to have a major redesign and several developer-friendly features.
 
 ---
     
-## Microsoft: Timeline is staying in Windows 10, but without syncing
-
-2021-04-15T01:04:18Z <https://www.engadget.com/about/editors/richard-lawler>
-
-![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-04/537a8910-9d86-11eb-bfef-b8f96000c6d7)
-
-Timeline was the "star" of Microsoft's big 2018 update for Windows 10 and while it will still remember everything you did, it just won't save that information to the cloud anymore.
-
-[Read More](https://www.engadget.com/windows-10-timeline-beta-010418271.html)
-
----
-    
 ## Seamlessly use Windows programs on your Mac with CrossOver
 
 2021-04-19T14:55:40Z <https://www.engadget.com/about/editors/stack-commerce>
@@ -149,6 +137,18 @@ Timeline was the "star" of Microsoft's big 2018 update for Windows 10 and while 
 With a CrossOver for Mac License, you can install and use Windows programs on your Mac computer as if they were native macOS apps.
 
 [Read More](https://www.engadget.com/crossover-for-mac-145540658.html)
+
+---
+    
+## Microsoft: Timeline is staying in Windows 10, but without syncing
+
+2021-04-15T01:04:18Z <https://www.engadget.com/about/editors/richard-lawler>
+
+![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-04/537a8910-9d86-11eb-bfef-b8f96000c6d7)
+
+Timeline was the "star" of Microsoft's big 2018 update for Windows 10 and while it will still remember everything you did, it just won't save that information to the cloud anymore.
+
+[Read More](https://www.engadget.com/windows-10-timeline-beta-010418271.html)
 
 ---
     

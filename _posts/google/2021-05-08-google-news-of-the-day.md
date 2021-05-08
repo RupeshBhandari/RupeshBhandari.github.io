@@ -1,23 +1,11 @@
 ---
 title: "Google news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [lifehacker.com, google]
+tags: [lifehacker.com, google]
 ---
 
-## How to Test Drive Google Chrome's New 'Memories' Page
-
-2021-04-20T15:30:00Z Brendan Hesse
-
-![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bczvhzi38xil9uejmmae.jpg)
-
-Google is testing a new “Memories” feature for Google Chrome that collects your browsing history, bookmarks, and other web activity onto a single, searchable page that will help you dig through your browser activity more easily.Read more...
-
-[Read More](https://lifehacker.com/how-to-test-drive-google-chromes-new-memories-page-1846716365)
-
----
-    
 ## How to Get Notified of Price Drops on Google Android
 
 2021-04-26T15:30:00Z Brendan Hesse
@@ -27,6 +15,18 @@ Google is testing a new “Memories” feature for Google Chrome that collects y
 Chrome desktop users have long been able to outfit the browser with third-party extensions that track prices and help you find the best deals, but those add-ons don’t work on Android. Luckily, Google is rolling out a new feature in Chrome mobile that will kee…
 
 [Read More](https://lifehacker.com/how-to-get-notified-of-price-drops-on-google-android-1846750253)
+
+---
+    
+## How to Test Drive Google Chrome's New 'Memories' Page
+
+2021-04-20T15:30:00Z Brendan Hesse
+
+![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bczvhzi38xil9uejmmae.jpg)
+
+Google is testing a new “Memories” feature for Google Chrome that collects your browsing history, bookmarks, and other web activity onto a single, searchable page that will help you dig through your browser activity more easily.Read more...
+
+[Read More](https://lifehacker.com/how-to-test-drive-google-chromes-new-memories-page-1846716365)
 
 ---
     
@@ -42,27 +42,15 @@ Google is updating Google Assistant with better contextual learning features tha
 
 ---
     
-## How to Navigate the New Google Play Store Interface
+## Speed Up Your Google Search With This New Keyboard Shortcut
 
-2021-04-09T19:15:00Z Brendan Hesse
+2021-04-16T17:00:00Z David Murphy
 
-![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/aazbtysavwx4xgyt5pxp.png)
+![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/o9omjbykaf0uzoizconq.jpg)
 
-A new Google Play Store interface is rolling out now for all Android users. It looks mostly the same as before, but reorganizes the store’s layout and streamlines the menus, so finding your way around the app will be different. Here’s a quick tour of the Goog…
+Google just dropped a great new keyboard shortcut that you can use to refine your search queries, and while it’s not going to save you a week’s worth of time, it’s easier to use than scrolling back up to the search bar, clicking it, and editing your query to …
 
-[Read More](https://lifehacker.com/how-to-navigate-the-new-google-play-store-interface-1846652767)
-
----
-    
-## How to Find Your iPhone With Google Assistant
-
-2021-04-19T20:00:00Z Brendan Hesse
-
-![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/t0islfwcevy5mrubar0t.png)
-
-If you live in a house with divided geek loyalties, your competing devices are about to get a little more collaborative. Google Assistant-enabled smart speakers can now help you find your missing iPhone; all you have to do is say “Hey Google, find my phone” t…
-
-[Read More](https://lifehacker.com/how-to-find-your-iphone-with-google-assistant-1846715097)
+[Read More](https://lifehacker.com/speed-up-your-google-search-with-this-new-keyboard-shor-1846698271)
 
 ---
     
@@ -90,15 +78,27 @@ To celebrate the launch of Google Pay’s new GPay app, Google is holding a “S
 
 ---
     
-## Speed Up Your Google Search With This New Keyboard Shortcut
+## How to Navigate the New Google Play Store Interface
 
-2021-04-16T17:00:00Z David Murphy
+2021-04-09T19:15:00Z Brendan Hesse
 
-![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/o9omjbykaf0uzoizconq.jpg)
+![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/aazbtysavwx4xgyt5pxp.png)
 
-Google just dropped a great new keyboard shortcut that you can use to refine your search queries, and while it’s not going to save you a week’s worth of time, it’s easier to use than scrolling back up to the search bar, clicking it, and editing your query to …
+A new Google Play Store interface is rolling out now for all Android users. It looks mostly the same as before, but reorganizes the store’s layout and streamlines the menus, so finding your way around the app will be different. Here’s a quick tour of the Goog…
 
-[Read More](https://lifehacker.com/speed-up-your-google-search-with-this-new-keyboard-shor-1846698271)
+[Read More](https://lifehacker.com/how-to-navigate-the-new-google-play-store-interface-1846652767)
+
+---
+    
+## How to Find Your iPhone With Google Assistant
+
+2021-04-19T20:00:00Z Brendan Hesse
+
+![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/t0islfwcevy5mrubar0t.png)
+
+If you live in a house with divided geek loyalties, your competing devices are about to get a little more collaborative. Google Assistant-enabled smart speakers can now help you find your missing iPhone; all you have to do is say “Hey Google, find my phone” t…
+
+[Read More](https://lifehacker.com/how-to-find-your-iphone-with-google-assistant-1846715097)
 
 ---
     
@@ -123,6 +123,30 @@ Months after Apple’s App Store introduced privacy labels for apps, Google anno
 Roku has accused Google of demanding special treatment for YouTube apps, warning that YouTube TV might leave the platform..
 
 [Read More](https://www.engadget.com/roku-google-youtube-tv-app-preferential-treatment-140612500.html)
+
+---
+    
+## Google will freeze auto-renewing Play Store subscriptions in India
+
+2021-05-01T16:20:21Z <https://www.engadget.com/about/editors/jon-fingas>
+
+![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-05/68aa2e70-aa93-11eb-bfac-fb911d510654)
+
+The Google Play Store is freezing auto-renewing subscriptions and free trials in India following new rules in the country..
+
+[Read More](https://www.engadget.com/google-play-store-india-halts-auto-renewing-subscriptions-162021215.html)
+
+---
+    
+## Google will require privacy data in Play Store listings
+
+2021-05-06T17:34:22Z <https://www.engadget.com/about/editors/karissa-bell>
+
+![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-05/2fbc1850-ae8d-11eb-bfad-219fb77b34a0)
+
+Google will soon require developers to provide more privacy and security information about their apps..
+
+[Read More](https://www.engadget.com/google-requires-android-developers-to-disclose-privacy-data-173422000.html)
 
 ---
     
@@ -159,30 +183,6 @@ Google parent Alphabet reported today that it raked in a total of $55.3 billion 
 You'll only need to tap a prompt to confirm your identity..
 
 [Read More](https://www.engadget.com/google-two-factor-authentication-161224608.html)
-
----
-    
-## Google will freeze auto-renewing Play Store subscriptions in India
-
-2021-05-01T16:20:21Z <https://www.engadget.com/about/editors/jon-fingas>
-
-![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-05/68aa2e70-aa93-11eb-bfac-fb911d510654)
-
-The Google Play Store is freezing auto-renewing subscriptions and free trials in India following new rules in the country..
-
-[Read More](https://www.engadget.com/google-play-store-india-halts-auto-renewing-subscriptions-162021215.html)
-
----
-    
-## Google will require privacy data in Play Store listings
-
-2021-05-06T17:34:22Z <https://www.engadget.com/about/editors/karissa-bell>
-
-![News Image](https://s.yimg.com/os/creatr-uploaded-images/2021-05/2fbc1850-ae8d-11eb-bfad-219fb77b34a0)
-
-Google will soon require developers to provide more privacy and security information about their apps..
-
-[Read More](https://www.engadget.com/google-requires-android-developers-to-disclose-privacy-data-173422000.html)
 
 ---
     

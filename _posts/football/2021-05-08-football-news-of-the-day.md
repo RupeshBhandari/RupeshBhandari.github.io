@@ -1,9 +1,9 @@
 ---
 title: "Football news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [engadget, football]
+tags: [engadget, football]
 ---
 
 ## Amazon’s Thursday Night Football deal will start early
@@ -90,18 +90,6 @@ Dortmund join Ben White race, Villa on Tammy Abraham alert, Luis Suarez tells Li
 
 ---
     
-## What Led Phillip Adams, Former N.F.L. Player, to a Shooting Spree?
-
-2021-04-09T21:37:39Z Jonathan Abrams, Ken Belson and John Jeter
-
-![News Image](https://static01.nyt.com/images/2021/04/10/sports/09SUBnfl-adams2-print/merlin_186120690_e45cbe23-ddac-418b-bec6-a456a207c580-facebookJumbo.jpg)
-
-A small city that bills itself as “Football City U.S.A.” is grappling with the shooting deaths of members of a prominent local family by Phillip Adams who, many say, had been adrift after his N.F.L. career ended.
-
-[Read More](https://www.nytimes.com/2021/04/09/sports/football/phillip-adams-shooting-nfl-player.html)
-
----
-    
 ## C.T.E. May Not Fully Explain Phillip Adams's Shooting Spree
 
 2021-04-16T00:57:08Z Ken Belson
@@ -111,6 +99,18 @@ A small city that bills itself as “Football City U.S.A.” is grappling with t
 A finding of C.T.E. can help explain violence and erratic behavior by former football players, but it will not give a clear picture of why Phillip Adams fatally shot seven people, including himself.
 
 [Read More](https://www.nytimes.com/2021/04/15/sports/football/phillip-adams-cte-shooting.html)
+
+---
+    
+## What Led Phillip Adams, Former N.F.L. Player, to a Shooting Spree?
+
+2021-04-09T21:37:39Z Jonathan Abrams, Ken Belson and John Jeter
+
+![News Image](https://static01.nyt.com/images/2021/04/10/sports/09SUBnfl-adams2-print/merlin_186120690_e45cbe23-ddac-418b-bec6-a456a207c580-facebookJumbo.jpg)
+
+A small city that bills itself as “Football City U.S.A.” is grappling with the shooting deaths of members of a prominent local family by Phillip Adams who, many say, had been adrift after his N.F.L. career ended.
+
+[Read More](https://www.nytimes.com/2021/04/09/sports/football/phillip-adams-shooting-nfl-player.html)
 
 ---
     
@@ -174,18 +174,6 @@ As Real Madrid prepare to face Chelsea in the Champions League semi-final first 
 
 ---
     
-## Biden on Chauvin verdict: 'Our work isn't done'
-
-2021-04-21T00:33:18Z None
-
-![News Image](https://ichef.bbci.co.uk/images/ic/400xn/p09f8mg0.jpg)
-
-The US President said it took an extraordinary convergence of factors to convict Derek Chauvin.
-
-[Read More](https://www.bbc.co.uk/news/av/world-us-canada-56826000)
-
----
-    
 ## The moment Indian rail worker saves child
 
 2021-04-20T12:08:07Z None
@@ -198,15 +186,15 @@ Mayur Shelke sprung into action when a 6-year-old boy fell onto the tracks.
 
 ---
     
-## Tampa Bay QB Brady slams league's expanded jersey number rule - Reuters
+## Biden on Chauvin verdict: 'Our work isn't done'
 
-2021-04-23T09:16:00Z Reuters
+2021-04-21T00:33:18Z None
 
-![News Image](None)
+![News Image](https://ichef.bbci.co.uk/images/ic/400xn/p09f8mg0.jpg)
 
-Tampa Bay Buccaners quarterback Tom Brady said the National Football League's rule change easing jersey number restrictions would make blocking more difficult and lead to "a lot of bad football".
+The US President said it took an extraordinary convergence of factors to convict Derek Chauvin.
 
-[Read More](https://www.reuters.com/lifestyle/sports/tampa-bay-qb-brady-slams-leagues-expanded-jersey-number-rule-2021-04-23/)
+[Read More](https://www.bbc.co.uk/news/av/world-us-canada-56826000)
 
 ---
     
@@ -219,6 +207,18 @@ Tampa Bay Buccaners quarterback Tom Brady said the National Football League's ru
 Italy's Juventus Football Club (JUVE.MI) and England's Manchester United (MANU.N) said on Sunday that 12 European top football clubs have agreed to establish a new mid-week competition, the Super League, governed by its founding clubs.
 
 [Read More](https://www.reuters.com/world/uk/juventus-manchester-united-say-12-european-top-clubs-agreed-establish-super-2021-04-18/)
+
+---
+    
+## Tampa Bay QB Brady slams league's expanded jersey number rule - Reuters
+
+2021-04-23T09:16:00Z Reuters
+
+![News Image](None)
+
+Tampa Bay Buccaners quarterback Tom Brady said the National Football League's rule change easing jersey number restrictions would make blocking more difficult and lead to "a lot of bad football".
+
+[Read More](https://www.reuters.com/lifestyle/sports/tampa-bay-qb-brady-slams-leagues-expanded-jersey-number-rule-2021-04-23/)
 
 ---
     

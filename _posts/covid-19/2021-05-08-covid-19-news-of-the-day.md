@@ -1,9 +1,9 @@
 ---
 title: "Covid-19 news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [wired, covid-19]
+tags: [wired, covid-19]
 ---
 
 ## You can now book a COVID-19 vaccine through Uber
@@ -222,15 +222,15 @@ A writer gives an update on her husband’s struggle with Covid-19.
 
 ---
     
-## Use This Map to Find Which States Are Best for Remote Workers
+## We may never know the exact toll of the pandemic
 
-2021-04-10T13:30:00Z Elizabeth Yuko
+2021-05-08T14:00:00Z Mary Beth Griggs
 
-![News Image](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/y94rkomq2qmuay7wxhhz.jpg)
+![News Image](https://cdn.vox-cdn.com/thumbor/rTngy2xvP82ZxDz2urm6g26eJEw=/0x278:3897x2318/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22498161/1232727150.jpg)
 
-More than a year ago, many people became remote workers by default, thanks to the COVID-19 pandemic. It wasn’t necessarily something most people had looked into—it just happened. Prior to the pandemic, about 20% of people with jobs that could be performed rem…
+New research found that the death toll of the COVID-19 pandemic was vastly higher than official reports. But grasping the full toll of the pandemic will take time.
 
-[Read More](https://lifehacker.com/use-this-map-to-find-which-states-are-best-for-remote-w-1846656315)
+[Read More](https://www.theverge.com/2021/5/8/22424422/pandemic-covid-coronavirus-death-toll-estimate-antivirus)
 
 ---
     

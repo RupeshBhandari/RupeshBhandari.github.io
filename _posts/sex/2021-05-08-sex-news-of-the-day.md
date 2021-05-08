@@ -1,9 +1,9 @@
 ---
 title: "Sex news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [mashable, sex]
+tags: [mashable, sex]
 ---
 
 ## It Began As an AI-Fueled Dungeon Game. It Got Much Darker
@@ -58,18 +58,6 @@ The French parliament on Thursday adopted legislation that characterizes sex wit
 
 ---
     
-## Indicted Matt Gaetz Associate Is Expected to Plead Guilty, Lawyers Say
-
-2021-04-08T17:29:44Z Patricia Mazzei and Michael S. Schmidt
-
-![News Image](https://static01.nyt.com/images/2021/04/08/us/politics/08dc-gaetz/08dc-gaetz-facebookJumbo.jpg)
-
-The associate could cooperate with prosecutors, giving them information about Mr. Gaetz’s relationships that investigators are examining for possible sex trafficking violations.
-
-[Read More](https://www.nytimes.com/2021/04/08/us/politics/matt-gaetz-investigation.html)
-
----
-    
 ## Matt Gaetz Is ‘Almost Too Florida,’ Says Stephen Colbert
 
 2021-04-09T05:58:54Z Trish Bendix
@@ -79,6 +67,18 @@ The associate could cooperate with prosecutors, giving them information about Mr
 Allegations of “Bahamas sex trafficking with a weed-peddling hand surgeon” make the congressman a nearly too-perfect representative of his state, Colbert said.
 
 [Read More](https://www.nytimes.com/2021/04/09/arts/television/matt-gaetz-stephen-colbert-florida.html)
+
+---
+    
+## Indicted Matt Gaetz Associate Is Expected to Plead Guilty, Lawyers Say
+
+2021-04-08T17:29:44Z Patricia Mazzei and Michael S. Schmidt
+
+![News Image](https://static01.nyt.com/images/2021/04/08/us/politics/08dc-gaetz/08dc-gaetz-facebookJumbo.jpg)
+
+The associate could cooperate with prosecutors, giving them information about Mr. Gaetz’s relationships that investigators are examining for possible sex trafficking violations.
+
+[Read More](https://www.nytimes.com/2021/04/08/us/politics/matt-gaetz-investigation.html)
 
 ---
     

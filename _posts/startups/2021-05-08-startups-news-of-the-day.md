@@ -1,9 +1,9 @@
 ---
 title: "Startups news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [techcrunch, startups]
+tags: [techcrunch, startups]
 ---
 
 ## Insurtech startups are leveraging rapid growth to raise big money

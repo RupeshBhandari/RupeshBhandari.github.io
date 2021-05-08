@@ -1,20 +1,20 @@
 ---
 title: "Education news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [techcrunch, education]
+tags: [techcrunch, education]
 ---
 
-## OpenClassrooms raises $80 million for its online education platform
+## Yousician raises $28M to make music education more accessible
 
-2021-04-28T13:30:09Z Romain Dillet
+2021-04-28T13:00:35Z Anthony Ha
 
-![News Image](https://techcrunch.com/wp-content/uploads/2021/04/neonbrand-gYf49RB7bvE-unsplash.jpg?w=600)
+![News Image](https://techcrunch.com/wp-content/uploads/2021/04/unnamed-4-2.jpg?w=485)
 
-French startup OpenClassrooms has raised an $80 million Series C funding round led by Lumos Capital Group. The company operates an online education platform in French and English. Users can choose among 54 training programs and get a diploma at the end of the…
+By his own admission, Chris Thür wasn’t the most obvious person to start a music education startup. Thür (previously a laser researcher) recalled an early meeting with an investor who asked whether he and co-founder Mikko Kaipainen (an electrical engineer) we…
 
-[Read More](http://techcrunch.com/2021/04/28/openclassrooms-raises-80-million-for-its-online-education-platform/)
+[Read More](http://techcrunch.com/2021/04/28/yousician-series-b/)
 
 ---
     
@@ -186,18 +186,6 @@ TechCrunch’s Startup Battlefield is one of the most popular parts of our annua
 
 ---
     
-## Education group Pearson's chairman to retire by next year - Reuters
-
-2021-04-22T15:47:00Z Reuters Staff
-
-![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
-
-Education group Pearson Plc said on Thursday Chairman Sidney Taurel intends to retire and step down from the board no later than next year's annual general meeting.
-
-[Read More](https://www.reuters.com/article/pearson-chairman-idUSL4N2MF3QX)
-
----
-    
 ## Beijing city fines online education firms for false advertising - Reuters
 
 2021-04-25T08:04:00Z Yew Lun Tian
@@ -219,6 +207,18 @@ Beijing city has fined four online education agencies 500,000 yuan ($76,988) eac
 Beijing city has fined four online education agencies 500,000 yuan ($76,988) each for misleading customers with false advertising, the local market regulator said on Sunday.
 
 [Read More](https://www.reuters.com/technology/beijing-city-fines-online-education-firms-false-advertising-2021-04-25/)
+
+---
+    
+## Education group Pearson's chairman to retire by next year - Reuters
+
+2021-04-22T15:47:00Z Reuters Staff
+
+![News Image](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800)
+
+Education group Pearson Plc said on Thursday Chairman Sidney Taurel intends to retire and step down from the board no later than next year's annual general meeting.
+
+[Read More](https://www.reuters.com/article/pearson-chairman-idUSL4N2MF3QX)
 
 ---
     

@@ -1,9 +1,9 @@
 ---
 title: "Oppo news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [techcrunch, oppo]
+tags: [techcrunch, oppo]
 ---
 
 ## OPPO Watch and Band Now Support iPhone and Apple Health Syncing

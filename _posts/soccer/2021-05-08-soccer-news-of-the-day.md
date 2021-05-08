@@ -1,9 +1,9 @@
 ---
 title: "Soccer news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [new york times, soccer]
+tags: [new york times, soccer]
 ---
 
 ## English soccer to boycott social media for four days over racist abuse
@@ -78,18 +78,6 @@ City, the Gulf-backed soccer team on the cusp of a fourth English Premier League
 
 ---
     
-## Breakaway European Soccer League Starts Legal Action to Defend Itself
-
-2021-04-19T08:37:09Z Tariq Panja
-
-![News Image](https://static01.nyt.com/images/2021/04/19/world/19soccer-europe/19soccer-europe-facebookJumbo.jpg)
-
-The founding members of a league that would reshape the sport have warned its authorities that they have filed motions in multiple courts to stymie any efforts to block their plans.
-
-[Read More](https://www.nytimes.com/2021/04/19/sports/soccer/european-super-league-football.html)
-
----
-    
 ## The Pandemic Shrank Our Social Circles. Let’s Keep It That Way.
 
 2021-04-23T11:55:02Z Kate Murphy
@@ -114,15 +102,15 @@ When Kevin Durant bought a stake in the Philadelphia Union last summer, he becam
 
 ---
     
-## Rage About Europe's Super League Is Muffled by Our Cheers
+## Breakaway European Soccer League Starts Legal Action to Defend Itself
 
-2021-04-18T23:35:21Z Rory Smith
+2021-04-19T08:37:09Z Tariq Panja
 
-![News Image](https://static01.nyt.com/images/2021/04/18/sports/18onsoccer-henry/18onsoccer-henry-facebookJumbo.jpg)
+![News Image](https://static01.nyt.com/images/2021/04/19/world/19soccer-europe/19soccer-europe-facebookJumbo.jpg)
 
-A breakaway league would remake European soccer to benefit a few rich teams, but would we watch it anyway?
+The founding members of a league that would reshape the sport have warned its authorities that they have filed motions in multiple courts to stymie any efforts to block their plans.
 
-[Read More](https://www.nytimes.com/2021/04/18/sports/soccer/super-league-real-madrid-liverpool.html)
+[Read More](https://www.nytimes.com/2021/04/19/sports/soccer/european-super-league-football.html)
 
 ---
     
@@ -147,6 +135,18 @@ Manchester City or another wealthy club might need to sign Erling Haaland, if on
 What the spectacular fall of a breakaway tournament for European soccer says about the future of the world’s biggest sport.
 
 [Read More](https://www.nytimes.com/2021/04/23/podcasts/the-daily/super-league-football-soccer-premier-league.html)
+
+---
+    
+## Rage About Europe's Super League Is Muffled by Our Cheers
+
+2021-04-18T23:35:21Z Rory Smith
+
+![News Image](https://static01.nyt.com/images/2021/04/18/sports/18onsoccer-henry/18onsoccer-henry-facebookJumbo.jpg)
+
+A breakaway league would remake European soccer to benefit a few rich teams, but would we watch it anyway?
+
+[Read More](https://www.nytimes.com/2021/04/18/sports/soccer/super-league-real-madrid-liverpool.html)
 
 ---
     

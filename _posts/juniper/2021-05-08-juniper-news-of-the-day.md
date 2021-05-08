@@ -1,9 +1,9 @@
 ---
 title: "Juniper news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [marketbeat, juniper]
+tags: [marketbeat, juniper]
 ---
 
 ## Billions of Smartphone Owners Will Soon Be Authorizing Payments Using Facial Recognition

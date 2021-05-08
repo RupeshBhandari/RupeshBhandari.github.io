@@ -1,9 +1,9 @@
 ---
 title: "Dating news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [the verge, dating]
+tags: [the verge, dating]
 ---
 
 ## How Do You Start Dating in a New City During a Pandemic?
@@ -103,18 +103,6 @@ The district attorney, Cyrus R. Vance Jr., moved to dismiss thousands of cases d
 
 ---
     
-## A Love of Sea Monsters Was the First Clue
-
-2021-05-07T09:00:18Z Abby Ellin
-
-![News Image](https://static01.nyt.com/images/2021/05/09/fashion/00VowsBreastCancer1/00VowsBreastCancer1-facebookJumbo.jpg)
-
-In 2014, Caitlin Kiernan was not interested in dating. But when a close friend suggested that she go out with Kenny Kaplan, their mutual appreciation for a children’s TV show sealed the deal.
-
-[Read More](https://www.nytimes.com/2021/05/07/style/caitlin-kiernan-kenny-kaplan-wedding.html)
-
----
-    
 ## A Pact to Go to the Prom Leads to a Walk Down the Aisle
 
 2021-05-07T09:00:18Z Rosalie R. Radomsky
@@ -124,6 +112,18 @@ In 2014, Caitlin Kiernan was not interested in dating. But when a close friend s
 Amy Larko and Blake Falanga knew they had each other if neither was dating anyone else when their senior dance arrived. They have been best friends since seventh grade.
 
 [Read More](https://www.nytimes.com/2021/05/07/style/amy-larko-blake-falanga-wedding.html)
+
+---
+    
+## A Love of Sea Monsters Was the First Clue
+
+2021-05-07T09:00:18Z Abby Ellin
+
+![News Image](https://static01.nyt.com/images/2021/05/09/fashion/00VowsBreastCancer1/00VowsBreastCancer1-facebookJumbo.jpg)
+
+In 2014, Caitlin Kiernan was not interested in dating. But when a close friend suggested that she go out with Kenny Kaplan, their mutual appreciation for a children’s TV show sealed the deal.
+
+[Read More](https://www.nytimes.com/2021/05/07/style/caitlin-kiernan-kenny-kaplan-wedding.html)
 
 ---
     

@@ -1,9 +1,9 @@
 ---
 title: "Hacking news of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:47:16 +0545"
+date: "2021-05-08 23:57:44 +0545"
 categories: [News]
-Tags: [engadget, hacking]
+tags: [engadget, hacking]
 ---
 
 ## The Morning After: Testing Apple's AirTags
@@ -188,18 +188,6 @@ A teen was accused of hacking into her high school's computer system to vote for
 
 ---
     
-## Here's How to Check If Your Phone Number Was Leaked in the Massive Facebook Breach
-
-2021-04-07T14:30:04Z Justin Chan
-
-![News Image](https://assets.entrepreneur.com/content/3x2/2000/1617805780-GettyImages-938722872.jpg)
-
-Over the weekend, the personal data of more than 533 million Facebook users was published in a hacking forum.
-
-[Read More](https://www.entrepreneur.com/article/368854)
-
----
-    
 ## Sweden Drops Russian Hacking Investigation Due To Legal Complications
 
 2021-04-14T16:03:00Z msmash
@@ -209,6 +197,18 @@ Over the weekend, the personal data of more than 533 million Facebook users was 
 The Swedish government dropped today its investigation into the 2017 hack of its sports authority, citing legal constraints that would have prevented prosecutors from charging the Russian hackers responsible for the intrusion, which officials claimed were mer…
 
 [Read More](https://it.slashdot.org/story/21/04/14/163221/sweden-drops-russian-hacking-investigation-due-to-legal-complications)
+
+---
+    
+## Here's How to Check If Your Phone Number Was Leaked in the Massive Facebook Breach
+
+2021-04-07T14:30:04Z Justin Chan
+
+![News Image](https://assets.entrepreneur.com/content/3x2/2000/1617805780-GettyImages-938722872.jpg)
+
+Over the weekend, the personal data of more than 533 million Facebook users was published in a hacking forum.
+
+[Read More](https://www.entrepreneur.com/article/368854)
 
 ---
     

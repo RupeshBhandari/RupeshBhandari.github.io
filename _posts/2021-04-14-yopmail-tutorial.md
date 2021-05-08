@@ -3,7 +3,7 @@ title:  "How to Create Disposable Email Address with Yopmail?"
 author: Rupesh Bhandari
 date:   2021-04-14 22:10:00 +0545
 categories: [Tutorial] 
-Tags: [disposable mail] 
+tags: [disposable mail] 
 ---
 
 Have you been annoyed with all the emails that you receive such as newsletters from different sites? Do you feel uncomfortable sharing your email with someone you've just met? Do you need access to a site just for a short span?

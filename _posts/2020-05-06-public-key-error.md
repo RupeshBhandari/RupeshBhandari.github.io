@@ -3,7 +3,7 @@ title:  "Fix apt-get update “the following signatures couldn’t be verified b
 author: Rupesh Bhandari
 date:   2021-04-06 06:40:00 +0545
 categories: [Linux, Ubuntu, Kali, Debian]
-Tags: [ubuntu]
+tags: [ubuntu]
 ---
 
 If you tried adding another repository in the `etc/apt/sources.list`, you might have come across this problem as shown below:

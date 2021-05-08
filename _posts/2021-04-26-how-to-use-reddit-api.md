@@ -3,7 +3,7 @@ title:  "How to use Reddit API?"
 author: Rupesh Bhandari
 date:   2021-04-26 02:31:00 +0545
 categories: [Social Media]
-Tags: [reddit, api]
+tags: [reddit, API]
 ---
 
 Before, I get into the nitty-gritty technical details, i would like to talk about why use *Reddit API*. You could the following things:
