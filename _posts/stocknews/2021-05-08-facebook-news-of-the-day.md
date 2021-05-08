@@ -1,0 +1,56 @@
+---
+title: "Facebook News for the day"
+author: "Rupesh Bhandari"
+date: "2021-05-08 14:54:11 +0545"
+categories: [News]
+Tags: [FB]
+---
+
+## Facebook (FB) is an Incredible Growth Stock: 3 Reasons Why
+
+2021-05-07 13:31:05 Zacks Investment Research
+
+Facebook (FB) could produce exceptional returns because of its solid growth attributes.
+
+![News Image](https://cdn.snapi.dev/images/v1/w/v/m02d20190603t2i1393923417rlynxnpef521h0w640-812001.jpg)
+
+[Read More](https://www.zacks.com/stock/news/1516724/facebook-fb-is-an-incredible-growth-stock-3-reasons-why)
+
+---
+        
+## Baillie Gifford Sells Tesla, Amazon, Facebook
+
+2021-05-07 13:02:43 GuruFocus
+
+Baillie Gifford (Trades, Portfolio) sold shares of the following stocks during the first quarter of 2021, which ended on March 31.
+
+![News Image](https://cdn.snapi.dev/images/v1/w/b/ff223-1-811956.jpg)
+
+[Read More](https://www.gurufocus.com/news/1419736/baillie-gifford-sells-tesla-amazon-facebook)
+
+---
+        
+## U.S. Weekly FundFlows Insight Report: In Contrast With Fund Investors, APs Give Cold Shoulder To Bonds, Embrace Equities
+
+2021-05-07 11:48:46 Seeking Alpha
+
+U.S. Weekly FundFlows Insight Report: In Contrast With Fund Investors, APs Give Cold Shoulder To Bonds, Embrace Equities
+
+![News Image](https://cdn.snapi.dev/images/v1/v/c/computer-electronic1-811732.jpg)
+
+[Read More](https://seekingalpha.com/article/4425536-u-s-weekly-fundflows-insight-report-in-contrast-fund-investors-aps-give-cold-shoulder-to)
+
+---
+        
+## Big Tech Scores A Record-Breaking Quarter: So Why Are Stock Prices Tanking?
+
+2021-05-07 05:40:39 Seeking Alpha
+
+A blowout earnings quarter for big tech. So why are their stocks falling?
+
+![News Image](https://cdn.snapi.dev/images/v1/m/9/im-317618width620size14222222222222223-742576-810667.jpg)
+
+[Read More](https://seekingalpha.com/article/4425459-big-tech-record-breaking-q1-2021-stock-prices-tanking)
+
+---
+        
