@@ -1,235 +1,235 @@
 ---
 title: "Headlines of the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:54:00 +0545"
+date: "2021-05-08 23:56:59 +0545"
 categories: [News]
-Tags: [Gizmodo.com]
+tags: [Associated Press]
 ---
 
-## Covid-19: More Vaccines Near Approval, but Global Drive Could Remain Stalled - The New York Times
+## Cyberattack forces major US fuel pipeline to shut down - CNN 
 
-2021-05-08T04:48:25Z Ron DePasquale, Sui-Lee Wee
+2021-05-08T15:46:00Z Veronica Stracqualursi, CNN
 
-![News Image](https://static01.nyt.com/images/2021/05/07/us/07virus-briefing-promo2/07virus-briefing-promo2-facebookJumbo.jpg)
+![News Image](https://cdn.cnn.com/cnnnext/dam/assets/210508093128-file-colonial-pipeline-alabama-2016-super-tease.jpg)
 
-The C.D.C. acknowledges that the coronavirus can drift in the air, infecting others. Pfizer seeks full F.D.A. approval for its vaccine.
+A cyberattack forced the temporary shut down of one of the US' largest pipelines Friday, highlighting already heightened concerns over the vulnerabilities in the nation's critical infrastructure.
 
-[Read More](https://www.nytimes.com/live/2021/05/07/world/covid-vaccine-coronavirus-cases)
-
----
-
-## Cincinnati Reds' Wade Miley confounds Cleveland Indians for 2021's 4th no-hitter - ESPN
-
-2021-05-08T04:18:45Z None
-
-![News Image](https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0508%2Fr851139_1296x729_16%2D9.jpg)
-
-Wade Miley pitched baseball's second no-hitter in three days -- and fourth already this season -- leading the Cincinnati Reds to a 3-0 win Friday night over the Cleveland Indians.
-
-[Read More](https://www.espn.com/mlb/story/_/id/31407487/cincinnati-reds-wade-miley-confounds-cleveland-indians-2021-4th-no-hitter)
+[Read More](https://www.cnn.com/2021/05/08/politics/colonial-pipeline-cybersecurity-attack/index.html)
 
 ---
 
-## TiVo’s first Android TV dongle also appears to be its last - The Verge
+## Scotland's pro-independence government close to a majority - The Associated Press
 
-2021-05-08T04:12:13Z Sean Hollister
+2021-05-08T15:20:53Z Pan Pylas
 
-![News Image](https://cdn.vox-cdn.com/thumbor/hVMHBTWAkORuRPl5rTFBahH7tRw=/0x75:1043x621/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19581440/streamer_horizontal_media_2.jpg)
+![News Image](https://storage.googleapis.com/afs-prod/media/2a71206749fa424c9c62352fbc85e487/3000.jpeg)
 
-Last May, TiVo attempted to muscle in on Roku and Amazon with an HDMI streaming dongle of its own — the $70 TiVo Stream 4K. It now appears the company’s planning to abandon its Android TV dongle efforts entirely.
+LONDON (AP) — Scotland's governing Scottish National Party was on course Saturday to win its fourth straight parliamentary election and very close to securing a majority that would enable it to make a push for another referendum on independence from the U...
 
-[Read More](https://www.theverge.com/2021/5/8/22425753/tivo-stream-4k-dongle-android-tv-no-more-jon-kirchner)
-
----
-
-## Chinese rocket expected to crash into Earth this weekend - CNN 
-
-2021-05-08T04:01:00Z Paul LeBlanc, CNN
-
-![News Image](https://cdn.cnn.com/cnnnext/dam/assets/210504155312-long-march-5b-launch-0429-super-tease.jpg)
-
-A large Chinese rocket that is out of control is set to reenter Earth's atmosphere this weekend, bringing a final wave of concern before its debris makes impact somewhere on Earth.
-
-[Read More](https://www.cnn.com/2021/05/08/politics/chinese-rocket-earth-reentry/index.html)
+[Read More](https://apnews.com/article/scotland-europe-health-coronavirus-pandemic-government-and-politics-d5a131cd5c658cc993b15749c79b495b)
 
 ---
 
-## Canelo Alvarez vs. Billy Joe Saunders: Live round-by-round updates - MMA Fighting
+## Black Americans And The Racist Architecture Of Homeownership - NPR
 
-2021-05-08T04:00:00Z MMA Fighting Newswire
+2021-05-08T15:20:46Z 
 
-![News Image](https://cdn.vox-cdn.com/thumbor/OCwOeSY_BmrTLZtQ20KaDTtew7w=/0x0:5208x2727/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22500200/1316848517.jpg)
+![News Image](https://media.npr.org/assets/img/2021/05/06/norrington-black-home-ownership-2_wide-5e766e95262dd92d520c88de5d464d2b95875f9c.jpg?s=1400)
 
-Follow Canelo Alvarez vs. Billy Joe Saunders live round-by-round updates for their main event showdown Saturday night.
+Owning a home is a part of the American dream. It's also the key to building intergenerational wealth. But Black Americans continue to face discrimination in housing, including through higher costs.
 
-[Read More](https://www.mmafighting.com/2021/5/8/22424909/canelo-alvarez-vs-billy-joe-saunders-live-round-by-round-updates)
-
----
-
-## Paul Van Doren, co-founder of Vans shoes, dead at 90 - NBC News
-
-2021-05-08T02:24:00Z Dennis Romero
-
-![News Image](https://media2.s-nbcnews.com/j/newscms/2021_18/3471281/210507-paul-van-doren-obit-ac-801p_2b8e84c4bca2c90688f09a3cb449500a.nbcnews-fp-1200-630.jpg)
-
-Paul Van Doren, who co-founded Vans shoes in 1966, has died at age 90. He took control of the company in the '80s and helped it become a California icon.
-
-[Read More](https://www.nbcnews.com/news/obituaries/paul-van-doren-co-founder-vans-shoes-dead-90-n1266734)
+[Read More](https://www.npr.org/sections/codeswitch/2021/05/08/991535564/black-americans-and-the-racist-architecture-of-homeownership)
 
 ---
 
-## Israeli-Palestinian Clashes Escalate In Ramadan Night Violence At Al-Aqsa Mosque - NPR
+## More people are dying from Covid in India than at any stage of the pandemic - CNN 
 
-2021-05-08T02:08:01Z 
+2021-05-08T15:13:00Z Manveena Suri and Nectar Gan, CNN
 
-![News Image](https://media.npr.org/assets/img/2021/05/07/gettyimages-1232749113_wide-888a3d88bdc7f48496ffb4c50e00804be838273b.jpg?s=1400)
+![News Image](https://cdn.cnn.com/cnnnext/dam/assets/210508030148-india-covid-deaths-0507-super-tease.jpg)
 
-Palestinian medics said more than 20 Palestinians were hospitalized after Israeli police in riot gear confronted Muslim worshippers at the Al-Aqsa Mosque. Israel said six police officers were injured.
+India's daily Covid-19 death toll surpassed 4,000 for the first time on Saturday, with Tamil Nadu becoming the latest state to announce a complete lockdown to curb surging infections.
 
-[Read More](https://www.npr.org/2021/05/07/994940939/israeli-palestinian-clashes-escalate-in-ramadan-night-violence-at-al-aqsa-mosque)
-
----
-
-## Democrats, activists blast reported Trump DOJ effort to get journalists' phone records | TheHill - The Hill
-
-2021-05-08T01:58:13Z Tal Axelrod
-
-![News Image](https://thehill.com/sites/default/files/leiuted_120419gn_lead.jpg)
-
-Democrats and free press advocates blasted a new report showing that the Department of Justice (DOJ) under former President Trump obtained phone records of Washington Post reporters and attempted to access their email records.
-
-[Read More](https://thehill.com/homenews/media/552454-democrats-activists-blast-reported-trump-doj-effort-to-get-journalists-phone)
+[Read More](https://www.cnn.com/2021/05/08/india/tamil-nadu-covid-intl-hnk/index.html)
 
 ---
 
-## Golden Globe Winner Mark Ruffalo, GLAAD Join Call-Outs Of HFPA - Deadline
+## Elon Musk on Saturday Night Live, explained - The Verge
 
-2021-05-08T01:47:00Z Erik Pedersen
+2021-05-08T15:00:01Z Elizabeth Lopatto
 
-![News Image](https://deadline.com/wp-content/uploads/2021/05/Mark-Ruffalo.jpg?w=1000)
+![News Image](https://cdn.vox-cdn.com/thumbor/NMRRbPpdrn4JVg8VL44JBAsQLxg=/0x294:2050x1367/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22497232/VRG_ILLO_4574_SNL_ElonMusk_site.jpg)
 
-The backlash against the Hollywood Foreign Press Association is showing no sign of ebbing. Mark Ruffalo, who won a Golden Globe Award this year, called out the international journalists group today. Hours after Deadline broke the news about Netflix’s Ted Sara…
+Why is the Tesla CEO appearing live from New York on Saturday night? Well, part of it is that Tesla doesn’t buy ads — so Elon Musk has to stay in the public eye.
 
-[Read More](https://deadline.com/2021/05/mark-ruffalo-rips-hfpa-lack-of-diversity-1234752294/)
-
----
-
-## NASA's Mars helicopter Ingenuity lands at new airfield after 5th flight - Space.com
-
-2021-05-08T01:16:13Z Mike Wall
-
-![News Image](https://cdn.mos.cms.futurecdn.net/g7GePcqraGb6qyxtRKph2J-1200-80.jpg)
-
-Ingenuity just made a one-way flight as its mission enters a new phase.
-
-[Read More](https://www.space.com/mars-helicopter-ingenuity-fifth-flight-new-airfield)
+[Read More](https://www.theverge.com/2021/5/8/22421873/elon-musk-snl-jokes-thud-why)
 
 ---
 
-## First look at Sebastian Stan, Lily James as Tommy Lee, Pamela Anderson: See the photos - USA TODAY
+## NCAA president Mark Emmert pushing for NIL action before or near July 1 - ESPN
 
-2021-05-08T01:11:26Z Cydney Henderson
+2021-05-08T14:53:48Z Dan Murphy
 
-![News Image](https://www.gannett-cdn.com/presto/2021/05/08/USAT/cb25e23f-bd36-41b2-80ee-ec9b0cb5f0f2-Pamandtommy.jpg?crop=1999,1125,x0,y435&width=1600&height=800&fit=bounds)
+![News Image](https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2017%2F1108%2Fr286327_1296x729_16%2D9.jpg)
 
-"Wow." "Unreal." "Obsessed." That's the social media reaction to Lily James' and Sebastian Stan's resemblance to Pamela Anderson and Tommy Lee.
+NCAA president Mark Emmert is pushing for approval of NIL guidance "before, or as close to, July 1," a date that coincides with when new laws regarding athlete endorsement will go into effect in five states.
 
-[Read More](https://www.usatoday.com/story/entertainment/tv/2021/05/07/see-photos-sebastian-stan-lily-james-tommy-lee-pamela-anderson/4998048001/)
-
----
-
-## Aubrey Plaza marries longtime boyfriend director Jeff Baena - Associated Press
-
-2021-05-08T00:40:05Z None
-
-![News Image](https://storage.googleapis.com/afs-prod/media/acef92d793974db9af9f7576af4e452d/3000.jpeg)
-
-LOS ANGELES (AP) — Aubrey Plaza has married her longtime boyfriend, director and screenwriter Jeff Baena.  The “Parks and Recreation” actor called Baena “my husband” for the first time publicly Friday in an <a href="https://www...
-
-[Read More](https://apnews.com/article/aubrey-plaza-jeff-baena-entertainment-arts-and-entertainment-b96ff4a108d2056593a834f5806ef58f)
+[Read More](https://www.espn.com/college-sports/story/_/id/31410263/ncaa-president-mark-emmert-pushing-nil-action-july-1)
 
 ---
 
-## India's Covid crisis delivers a blow to brand Modi - BBC News
+## Celebrate the weekend with these money-saving tech deals - The Verge
 
-2021-05-08T00:36:28Z <https://www.facebook.com/bbcnews>
+2021-05-08T14:30:00Z Cameron Faulkner
 
-![News Image](https://ichef.bbci.co.uk/news/1024/branded_news/747D/production/_118412892_gettyimages-1230740160.jpg)
+![News Image](https://cdn.vox-cdn.com/thumbor/QRqJhvKttqUujPtlftd_p2YYxUc=/28x0:2129x1100/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21865103/satechi_quattro_power_bank.jpg)
 
-Narendra Modi's carefully crafted image has taken a hit as India reels from a punishing Covid wave.
+Mother’s Day is Sunday, May 9th, and we have some good tech deals if you need to snag a belated gift. You can save on Satechi accessories, Apple’s new iPad Pro with the M1 CPU, and Roku’s easy-to-setup Streambar soundbar.
 
-[Read More](https://www.bbc.com/news/world-asia-india-56970569)
-
----
-
-## Elon Musk’s ‘SNL’ controversy has Pete Davidson confused: ‘This is the dude everyone's freaked out about?’ - Fox News
-
-2021-05-08T00:20:46Z Julius Young
-
-![News Image](https://static.foxnews.com/foxnews.com/content/uploads/2021/05/Pete-Davidson_Elon-Musk-Getty.jpg)
-
-The funnyman pressed that even those among the cast have been actively trying to sniff out who the upset party is.
-
-[Read More](https://www.foxnews.com/entertainment/snls-pete-davidson-confused-elon-musk-controversy)
+[Read More](https://www.theverge.com/good-deals/2021/5/8/22424501/satechi-accessories-ps-plus-memberships-roku-streambar-ipad-pro-m1-deal-sale)
 
 ---
 
-## EU calls on US to push exports to counter vaccine shortage - Fox News
+## Bomb kills at least 25 near girls' school in Afghan capital - The Associated Press
 
-2021-05-07T23:38:10Z Associated Press
+2021-05-08T14:28:42Z Rahim Faiez
 
-![News Image](https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20340658244527.jpg)
+![News Image](https://storage.googleapis.com/afs-prod/media/fdc8be73ea3a4cc6b9d9974acaa26d84/3000.jpeg)
 
-The European Union called on the United States Friday to start boosting its vaccine exports to contain the global COVID-19 crisis, and said that the U.S. backing of patent waivers would provide only a long-term solution at best.
+KABUL, Afghanistan (AP) — A bomb exploded near a girls' school in a majority Shiite district of west Kabul on Saturday, killing at least 30 people, many of them young pupils between 11 and 15 years old...
 
-[Read More](https://www.foxnews.com/world/eu-calls-us-exports-counter-vaccine-shortage)
-
----
-
-## Google childcare workers start petition over transportation costs - Business Insider
-
-2021-05-07T23:29:42Z Tyler Sonnemaker
-
-![News Image](https://i.insider.com/6095c0b9f22c6b00185dd19e?width=1200&format=jpeg)
-
-The workers said they're paid an average of $20/hour and are mad Google isn't footing the bill, despite saving $1 billion annually due to remote work.
-
-[Read More](https://www.businessinsider.com/google-childcare-workers-sign-petition-office-work-transportation-costs-2021-5)
+[Read More](https://apnews.com/article/religion-b424aa48c6f2d22be7303809c337e460)
 
 ---
 
-## Justice Dept. Indicts Former Officers in George Floyd Death - The New York Times
+## Albert Pujols’ sad Angels ending is latest mega-deal warning: Sherman - New York Post 
 
-2021-05-07T23:11:02Z Katie Benner, Nicholas Bogel-Burroughs
+2021-05-08T14:22:00Z Joel Sherman
 
-![News Image](https://static01.nyt.com/images/2021/05/07/us/politics/07dc-justice-1/merlin_186300861_810b9cf3-ef39-4be4-bdfe-0b6207c284ed-facebookJumbo.jpg)
+![News Image](https://nypost.com/wp-content/uploads/sites/2/2021/05/1315538249.jpg?quality=90&strip=all&w=1200)
 
-The indictment was a rare instance of police officers facing accusations of federal civil rights violations.
+Albert Pujols was last an elite player in 2012, or in the first season of the 10-year, $240 million contract he signed with the Angels in December 2011.
 
-[Read More](https://www.nytimes.com/2021/05/07/us/politics/george-floyd-death-minneapolis-officers-civil-rights-charges.html)
-
----
-
-## Kim Kardashian shows off figure, platinum blonde hair while working out in revealing swimsuit - Fox News
-
-2021-05-07T22:33:41Z Nate Day
-
-![News Image](https://static.foxnews.com/foxnews.com/content/uploads/2021/05/Kim-Kardashian-5.jpg)
-
-“Keeping Up with the Kardashians” star Kim Kardashian posed in a revealing black swimsuit and blonde hair in a recent Instagram post.
-
-[Read More](https://www.foxnews.com/entertainment/kim-kardashian-platinum-blonde-hair-revealing-swimsuit-working-out)
+[Read More](https://nypost.com/2021/05/08/albert-pujols-angels-ending-is-a-mega-deal-warning-sherman/)
 
 ---
 
-## Biden Draws Criticism From Republicans as Job Gains Disappoint - The New York Times
+## Actress Tawny Kitaen Dead at 59 - TMZ
 
-2021-05-07T22:22:05Z Jim Tankersley, Alan Rappeport, Jeanna Smialek
+2021-05-08T13:34:00Z TMZ Staff
 
-![News Image](https://static01.nyt.com/images/2021/05/07/business/07dc-biden-econ01/07dc-biden-econ01-facebookJumbo.jpg)
+![News Image](https://imagez.tmz.com/image/4b/16by9/2021/05/08/4b9cad557ac646bfb3d3cbe737453e41_xl.jpg)
 
-The president said he saw no measurable evidence that a $300 federal boost in unemployment benefits was hurting the labor market, amid criticism from conservatives and business groups.
+Tawny Kitaen, the actress who starred in "Bachelor Party" and whose personal life was filled with radical ups and downs, has died ... TMZ has learned.
 
-[Read More](https://www.nytimes.com/2021/05/07/business/biden-republicans-jobs.html)
+[Read More](https://www.tmz.com/2021/05/08/tawny-kitaen-dead-dies/)
+
+---
+
+## 'X marks the spot (for now)': Chinese rocket hurtling back to Earth; parts of US remain in possible landing zone - USA TODAY
+
+2021-05-08T13:13:09Z Doyle Rice, Janet Loehrke and Stephen J. Beard
+
+![News Image](https://www.gannett-cdn.com/presto/2021/05/07/USAT/29818716-6633-48d2-a647-7437595edecb-AFP_AFP_99G6XP.png?crop=576,324,x189,y67&width=1200)
+
+A section of a Chinese rocket is falling to Earth and could hit late Saturday. China's government expects most of it will burn up during reentry.
+
+[Read More](https://www.usatoday.com/in-depth/news/world/2021/05/08/chinese-rocket-long-march-5-b-hurtling-back-earth-may-hit-saturday/4991857001/)
+
+---
+
+## The Year That TV Saved Us - Rolling Stone
+
+2021-05-08T13:00:24Z Alan Sepinwall
+
+![News Image](https://www.rollingstone.com/wp-content/uploads/2021/04/campfire_artworkWEB-1.jpg)
+
+As life outside our homes shut down, the small screen became our treasured path to safe escape
+
+[Read More](https://www.rollingstone.com/tv/tv-features/tv-series-streaming-covid-1163455/)
+
+---
+
+## Dan's Daily: Flyers Help Penguins, Tom Wilson Reaches Out to Panarin - Pittsburgh Hockey Now
+
+2021-05-08T12:31:21Z Dan Kingerski
+
+![News Image](https://i0.wp.com/pittsburghhockeynow.com/wp-content/uploads/114210119002_was_at_pit.jpg?resize=1000%2C600&ssl=1)
+
+I certainly didn’t see that one coming. The Pittsburgh Penguins got some help from the Philadelphia Flyers on Friday night as the Flyers beat the Washington Capitals and gave the Penguins a fighting chance at the East Division. Washington forward Tom Wilson r…
+
+[Read More](https://pittsburghhockeynow.com/pittsburgh-penguins-tom-wilson-philadelphia-flyers-first-place-dans-daily/)
+
+---
+
+## Some say Florida could become a major tech and finance hub within a decade. That may be an overstatement. - CNBC
+
+2021-05-08T12:00:01Z Tala Hadavi
+
+![News Image](https://image.cnbcfm.com/api/v1/image/102756012-GettyImages-85480342.jpg?v=1532564293)
+
+Anecdotal evidence of financial firms and investors moving to Florida hint at exponential growth, but migration data is telling a different story.
+
+[Read More](https://www.cnbc.com/2021/05/08/keith-rabois-elliot-management-and-goldman-sachs-invest-in-florida.html)
+
+---
+
+## Epic Games Offered Sony $200 Million to Bring PS5, PS4 Exclusives to Its Store - Push Square
+
+2021-05-08T12:00:00Z Push Square
+
+![News Image](https://images.pushsquare.com/31fb83a6bde52/1280x720.jpg)
+
+In demand
+
+[Read More](https://www.pushsquare.com/news/2021/05/epic_games_offered_sony_usd200_million_to_bring_ps5_ps4_exclusives_to_its_store)
+
+---
+
+## How Bill, Melinda Gates should navigate dating after a 'gray divorce': experts - Fox News
+
+2021-05-08T11:56:39Z Julius Young
+
+![News Image](https://static.foxnews.com/foxnews.com/content/uploads/2020/04/bill-and-melinda-gates-AP.jpg)
+
+Bill and Melinda Gates may not be too eager to rebound into other relationships following their divorce after 27 years of marriage, but should the billionaires elect to do so, relationship experts believe respectively that each of them should take their time …
+
+[Read More](https://www.foxnews.com/lifestyle/bill-melinda-gates-navigate-dating-after-divorce-experts)
+
+---
+
+## Yale's David Swensen Leaves Behind A Powerful Legacy In Investing - NPR
+
+2021-05-08T11:17:15Z 
+
+![News Image](https://media.npr.org/assets/img/2021/05/07/gettyimages-138010243_wide-9e394503545db4532f40fc151b4eb2c5b22c2cfd.jpg?s=1400)
+
+Swensen made billions for Yale and revolutionized the way Universities and other non-profits invest. And he strove to teach everyday people how to invest without getting fleeced by Wall Street.
+
+[Read More](https://www.npr.org/2021/05/08/994794562/david-swensen-the-greatest-investor-you-maybe-never-heard-of-leaves-powerful-leg)
+
+---
+
+## Shamanism Endures In Both Koreas — But In The North, Shamans Risk Arrest Or Worse - NPR
+
+2021-05-08T11:01:15Z 
+
+![News Image](https://media.npr.org/assets/img/2021/03/09/3493498-kuhn-96_wide-ae04292829107ef40c9a28841db0e63411495da8.jpg?s=1400)
+
+Combining elements of animism, ancestor worship and folk religion, shamanism remains popular on both sides of the border. But it's illegal in the North, and some who practice it have been executed.
+
+[Read More](https://www.npr.org/2021/05/08/973254913/shamanism-endures-in-both-koreas-but-in-the-north-shamans-risk-arrest-or-worse)
+
+---
+
+## 'I Feel Alive Again:' 103-Year-Old COVID Survivor Gets Vaccinated : Goats and Soda - NPR
+
+2021-05-08T11:01:15Z None
+
+![News Image](https://media.npr.org/assets/img/2021/05/05/img_0415_wide-29fd19cac43ad6abd27ef72002b9fcebc245ecbc.jpg?s=1400)
+
+Aziz Abdul Alim, from a remote part of northern Pakistan, urges people to get their COVID shot: 'Everyone should have the courage to take it.'
+
+[Read More](https://www.npr.org/sections/goatsandsoda/2021/05/08/993864206/103-year-old-covid-survivor-has-advice-for-the-unvaccinated)
 
 ---
