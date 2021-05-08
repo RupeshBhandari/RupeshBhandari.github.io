@@ -1,11 +1,35 @@
 ---
 title: "Amazon News for the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:54:11 +0545"
+date: "2021-05-08 23:57:12 +0545"
 categories: [News]
-Tags: [AMZN]
+tags: [AMZN]
 ---
 
+## Jeff Bezos sold $5 billion of Amazon stock in 4 days, ahead of stepping down as CEO
+
+2021-05-08 08:33:21 Business Insider
+
+Jeff Bezos cashed out almost $5 billion of Amazon stock this week, as he prepares to step down as the e-commerce giant's CEO next quarter. Bezos sold about 1.5 million shares at an average price of around $3,350 between Monday and Thursday, netting himself $4.9 billion, regulatory filings show. The disposals reduced his total Amazon shares from 53.2 million to 51.7 million — a 10.3% stake worth $170 billion as of Friday's close.
+
+![News Image](https://cdn.snapi.dev/images/v1/1/0/106569797-1591649109683gettyimages-1032942656-812787.jpeg)
+
+[Read More](https://markets.businessinsider.com/news/stocks/jeff-bezos-sold-5-billion-amazon-stock-days-ceo-resignation-2021-5-1030404504)
+
+---
+        
+## Amazon employee dies at Bessemer, Alabama, warehouse, site of unionization drive
+
+2021-05-07 20:41:06 CNBC
+
+Amazon declined to share further details about the situation, noting that it was a personal medical incident.
+
+![News Image](https://cdn.snapi.dev/images/v1/w/2/106860716-1617020773222-gettyimages-1231995715-a9a08768-812634.jpeg)
+
+[Read More](https://www.cnbc.com/2021/05/07/amazon-employee-dies-at-bessemer-alabama-warehouse.html)
+
+---
+        
 ## Behind Amazon and Walmart's battle to dominate everything
 
 2021-05-07 17:22:42 CNBC Television
@@ -27,30 +51,6 @@ The Axon growth narrative continues to fire on all cylinders, underscoring why A
 ![News Image](https://cdn.snapi.dev/images/v1/k/4/catalog-mail8-812447.jpg)
 
 [Read More](https://investorplace.com/hypergrowthinvesting/2021/05/axon-crushed-earnings-next-stop-for-axon-stock-200/)
-
----
-        
-## Amazon Announces First Robotics Fulfillment Center in Louisiana
-
-2021-05-07 15:35:00 Business Wire
-
-SEATTLE--(BUSINESS WIRE)--Amazon plans to open its first robotics fulfillment center in the state of Louisiana
-
-![News Image](https://cdn.snapi.dev/images/v1/2/a/press14-812246.jpg)
-
-[Read More](https://www.businesswire.com/news/home/20210507005560/en/Amazon-Announces-First-Robotics-Fulfillment-Center-in-Louisiana/)
-
----
-        
-## Amazon, union tussle over identifying witnesses as U.S. labor board starts hearing
-
-2021-05-07 14:53:00 Reuters
-
-Amazon.com lost a tussle on Friday over whether it could learn the names of witnesses before they testify at a hearing investigating claims that the company illegally interfered with a vote on unionizing an Alabama facility.
-
-![News Image](https://cdn.snapi.dev/images/v1/7/h/m02d20210507t2i1561320927w940fhfwllplsqrlynxmpeh46166-812169.jpg)
-
-[Read More](https://www.reuters.com/business/legal/amazon-union-tussle-over-identifying-witnesses-us-labor-board-starts-hearing-2021-05-07/)
 
 ---
         

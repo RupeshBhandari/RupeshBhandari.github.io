@@ -1,11 +1,47 @@
 ---
 title: "Apple News for the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:54:11 +0545"
+date: "2021-05-08 23:57:12 +0545"
 categories: [News]
-Tags: [AAPL]
+tags: [AAPL]
 ---
 
+## Apple (AAPL) Hires Stella Low As Communications Head
+
+2021-05-08 07:57:35 Pulse2
+
+Apple Inc (NASDAQ: AAPL) has hired Stella Low as the new vice president of worldwide corporate communications. These are the details.
+
+![News Image](https://cdn.snapi.dev/images/v1/w/1/ap00-812740.jpg)
+
+[Read More](https://pulse2.com/apple-aapl-hires-stella-low-as-communications-head/)
+
+---
+        
+## A Large Asset Manager Bets Big on Apple and Alibaba. Here Are Two Stocks It Sold.
+
+2021-05-08 07:00:00 Barrons
+
+Flossbach von Storch of Germany bought Apple and Alibaba shares in the first quarter, while slashing positions in videogame publishers Electronic Arts and Activision.
+
+![News Image](https://cdn.snapi.dev/images/v1/g/1/im-335569-812724.jpg)
+
+[Read More](https://www.barrons.com/articles/big-buys-apple-alibaba-stock-large-investor-sold-ea-activision-stock-51620240256)
+
+---
+        
+## Epic Games trial reveals Apple negotiations with Netflix, Facebook, and Microsoft
+
+2021-05-07 17:17:03 CNBC
+
+As part of Epic's argument that Apple's App Store is anti-competitive, the trial has revealed internal Apple deliberations on negotiations with top partners.
+
+![News Image](https://cdn.snapi.dev/images/v1/u/a/105309047-1530624182467app-store-812457.jpg)
+
+[Read More](https://www.cnbc.com/2021/05/07/epic-trial-reveals-apple-negotiations-with-netflix-facebook-microsoft.html)
+
+---
+        
 ## Apple Hospitality REIT, Inc. (APLE) CEO Justin Knight on Q1 2021 Results - Earnings Call Transcript
 
 2021-05-07 16:39:04 Seeking Alpha
@@ -555,42 +591,6 @@ U.S. indices and shares of several companies in the broader technology sector we
 ![News Image](https://cdn.snapi.dev/images/v1/s/g/stock-market-2616931-1920-162-803522.jpg)
 
 [Read More](https://www.benzinga.com/news/21/05/20949606/paypal-apple-and-nvidia-lead-the-nasdaq-sharply-lower)
-
----
-        
-## What Did the Stock Market Do Today? 3 Big Stories to Catch Up On.
-
-2021-05-04 16:36:11 InvestorPlace
-
-So what did the stock market do today? Investors were selling tech stocks and watching rising Dogecoin prices on Tuesday.
-
-![News Image](https://cdn.snapi.dev/images/v1/f/5/computer-electronic4-803400.jpg)
-
-[Read More](https://investorplace.com/2021/05/what-did-the-stock-market-do-today-3-big-stories-tech-stocks-down-dogecoin-prices/)
-
----
-        
-## How Apple turned dongles into a big business
-
-2021-05-04 11:00:01 CNBC
-
-With wireless tech constantly on the heels of cables and adapters, companies that once made most of their money on dongles are updating accordingly.
-
-![News Image](https://cdn.snapi.dev/images/v1/b/t/106876699-1619800788955-gettyimages-1307759199-802379.jpg)
-
-[Read More](https://www.cnbc.com/2021/05/04/dongles-bring-in-billions.html)
-
----
-        
-## Berkshire Annual Meeting Conclusion: Don't Be Afraid To Trade The Opposite Of Warren Buffett
-
-2021-05-04 10:21:04 Seeking Alpha
-
-Berkshire Annual Meeting Conclusion: Don't Be Afraid To Trade The Opposite Of Warren Buffett
-
-![News Image](https://cdn.snapi.dev/images/v1/s/h/computer-electronic33-802217.jpg)
-
-[Read More](https://seekingalpha.com/article/4423985-berkshire-hathaway-stock-annual-meeting-conclusion-trade-opposite-of-warren-buffett)
 
 ---
         

@@ -1,11 +1,35 @@
 ---
 title: "Tesla News for the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:54:11 +0545"
+date: "2021-05-08 23:57:12 +0545"
 categories: [News]
-Tags: [TSLA]
+tags: [TSLA]
 ---
 
+## Tesla rival Lucid Motors to run commercial during Elon Musk's SNL episode
+
+2021-05-08 06:08:56 Fox Business
+
+Electric car maker Lucid Motors has a plan to upstage Tesla founder Elon Musk during his highly anticipated appearance as guest host of “Saturday Night Live” this weekend.
+
+![News Image](https://cdn.snapi.dev/images/v1/v/a/bank12-812713.jpg)
+
+[Read More](https://www.foxbusiness.com/markets/tesla-rival-lucid-commercial-elon-musk-snl)
+
+---
+        
+## Tesla refutes Elon Musk's timeline on ‘full self-driving'
+
+2021-05-07 18:33:12 TechCrunch
+
+What Tesla CEO Elon Musk says publicly about the company's progress on a fully autonomous driving system doesn't match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker. The memo, which transparency site Plainsite obtained via a Freedom of Information Act request and subsequently […]
+
+![News Image](https://cdn.snapi.dev/images/v1/c/i/gettyimages-1130604490jpgw600-812523.jpg)
+
+[Read More](https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/)
+
+---
+        
 ## Tesla Rival Lucid To Advertise Electric Air Sedan On NBC As Elon Musk Hosts SNL
 
 2021-05-07 17:58:15 Forbes
@@ -27,30 +51,6 @@ So what did the stock market do today? Investors are digesting what big moves in
 ![News Image](https://cdn.snapi.dev/images/v1/v/h/etf19-812393.jpg)
 
 [Read More](https://investorplace.com/2021/05/what-did-the-stock-market-do-today-3-big-stories-safemoon-crypto-dogecoin-chia-xch/)
-
----
-        
-## Growth Sell-Off: Which Stocks I'm Buying Now
-
-2021-05-07 14:48:51 Seeking Alpha
-
-Growth stocks continue to sell off as prominent names have dropped 20-30% over the last couple of days.
-
-![News Image](https://cdn.snapi.dev/images/v1/9/r/ao12we22-ftpy6kbfw3-812152.jpg)
-
-[Read More](https://seekingalpha.com/article/4425657-growth-sell-off-which-stocks-buying-now)
-
----
-        
-## Tesla can't promise driverless cars in 2021, engineer tells California DMV
-
-2021-05-07 14:03:06 CNBC
-
-In a Jan. 2021 earnings call, Tesla CEO Elon Musk said he was "highly confident the car will be able to drive itself with reliability in excess of human this year."
-
-![News Image](https://cdn.snapi.dev/images/v1/f/7/106873963-16194618232021-04-26t174941z-1277381692-rc2t3n9wk9ci-rtrmadp-0-usa-autos-congress-812082.jpeg)
-
-[Read More](https://www.cnbc.com/2021/05/07/tesla-engineer-to-california-dmv-self-driving-may-not-come-this-year.html)
 
 ---
         

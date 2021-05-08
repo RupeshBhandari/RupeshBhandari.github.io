@@ -1,9 +1,9 @@
 ---
 title: "Google News for the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:54:11 +0545"
+date: "2021-05-08 23:57:12 +0545"
 categories: [News]
-Tags: [GOOG]
+tags: [GOOG]
 ---
 
 ## Roku called Google an 'unchecked monopolist' after the company added YouTube TV into its main YouTube app on the streaming platform's channel store (ROKU, GOOGL)

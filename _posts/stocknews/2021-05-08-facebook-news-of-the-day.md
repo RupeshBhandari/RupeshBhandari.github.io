@@ -1,11 +1,23 @@
 ---
 title: "Facebook News for the day"
 author: "Rupesh Bhandari"
-date: "2021-05-08 14:54:11 +0545"
+date: "2021-05-08 23:57:12 +0545"
 categories: [News]
-Tags: [FB]
+tags: [FB]
 ---
 
+## Epic Games trial reveals Apple negotiations with Netflix, Facebook, and Microsoft
+
+2021-05-07 17:17:03 CNBC
+
+As part of Epic's argument that Apple's App Store is anti-competitive, the trial has revealed internal Apple deliberations on negotiations with top partners.
+
+![News Image](https://cdn.snapi.dev/images/v1/u/a/105309047-1530624182467app-store-812457.jpg)
+
+[Read More](https://www.cnbc.com/2021/05/07/epic-trial-reveals-apple-negotiations-with-netflix-facebook-microsoft.html)
+
+---
+        
 ## Facebook (FB) is an Incredible Growth Stock: 3 Reasons Why
 
 2021-05-07 13:31:05 Zacks Investment Research
@@ -39,18 +51,6 @@ U.S. Weekly FundFlows Insight Report: In Contrast With Fund Investors, APs Give 
 ![News Image](https://cdn.snapi.dev/images/v1/v/c/computer-electronic1-811732.jpg)
 
 [Read More](https://seekingalpha.com/article/4425536-u-s-weekly-fundflows-insight-report-in-contrast-fund-investors-aps-give-cold-shoulder-to)
-
----
-        
-## Big Tech Scores A Record-Breaking Quarter: So Why Are Stock Prices Tanking?
-
-2021-05-07 05:40:39 Seeking Alpha
-
-A blowout earnings quarter for big tech. So why are their stocks falling?
-
-![News Image](https://cdn.snapi.dev/images/v1/m/9/im-317618width620size14222222222222223-742576-810667.jpg)
-
-[Read More](https://seekingalpha.com/article/4425459-big-tech-record-breaking-q1-2021-stock-prices-tanking)
 
 ---
         
