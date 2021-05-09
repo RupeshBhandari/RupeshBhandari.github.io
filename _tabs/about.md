@@ -25,6 +25,6 @@ Own Personal Site: <https://rupeshbhandari.github.io/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshBhandari&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
-![Streak Stats}(https://github-readme-streak-stats.herokuapp.com/?user=RupeshBhandari)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RupeshBhandari)
 
 ![Profile stats](https://github-readme-stats.vercel.app/api?username=RupeshBhandari&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
