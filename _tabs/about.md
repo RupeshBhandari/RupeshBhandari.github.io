@@ -35,11 +35,3 @@ Own Personal Site: https://rupeshbhandari.github.io/
 
 Own Personal Site: https://rupeshbhandari.github.io/
 
-### What is this README profile thing? 🤔
-To make one, create a repo named after your username (matching case exactly) and create a `README.md` file in it. Then go to your GitHub profile and you'll see your README appear there ✨.
-
-Location of this **README**:
-- [RupeshBhandari/RupeshBhandari](https://github.com/RupeshBhandari/RupeshBhandari/) 
-
-Still confused follow the links below:
-- GitHub topic: [profile-readme](https://github.com/topics/profile-readme)
