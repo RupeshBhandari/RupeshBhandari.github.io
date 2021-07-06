@@ -3,7 +3,7 @@ title:  "Agriculture Development Bank Ltd Branch Codes"
 author: Rupesh Bhandari
 date:   2021-04-18 22:10:00 +0545
 categories: [Banking, Banks and Financial Institutions(BFI)]
-tags: [agriculture-development-bank-ltd]
+tags: [Agriculture Development Bank Ltd]
 ---
 
 |   code | name                                                              |
